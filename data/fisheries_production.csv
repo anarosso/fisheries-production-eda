@@ -1,1 +1,1441 @@
-Year;Month;Region;Species;Production_Tons;Vessel_Type;Fishing_Type
+Year,Month,Region,Species,Production_Tons,Avg_Price_per_Ton,vessel_type,fishing_Type
+2015,1,North Coast,Tuna,379,2124.11,Net,Artisanal
+2016,1,North Coast,Tuna,532,2303.71,Longline,Industrial
+2017,1,North Coast,Tuna,576,1916.92,Longline,Artisanal
+2018,1,North Coast,Tuna,333,1848.92,Trawl,Artisanal
+2019,1,North Coast,Tuna,597,1786.68,Net,Artisanal
+2020,1,North Coast,Tuna,915,1729.6,Longline,Industrial
+2021,1,North Coast,Tuna,623,2210.35,Net,Industrial
+2022,1,North Coast,Tuna,392,2689.7,Longline,Industrial
+2023,1,North Coast,Tuna,356,1497.32,Longline,Artisanal
+2024,1,North Coast,Tuna,424,2334.48,Trawl,Artisanal
+2015,2,North Coast,Tuna,691,1965.03,Net,Artisanal
+2016,2,North Coast,Tuna,486,1904.43,Trawl,Industrial
+2017,2,North Coast,Tuna,461,2038.11,Longline,Industrial
+2018,2,North Coast,Tuna,629,1967.1,Longline,Industrial
+2019,2,North Coast,Tuna,706,1984.98,Net,Industrial
+2020,2,North Coast,Tuna,409,2723.73,Net,Artisanal
+2021,2,North Coast,Tuna,535,2094.04,Longline,Industrial
+2022,2,North Coast,Tuna,427,2308.84,Trawl,Artisanal
+2023,2,North Coast,Tuna,381,1738.07,Longline,Artisanal
+2024,2,North Coast,Tuna,624,1716.63,Longline,Artisanal
+2015,3,North Coast,Tuna,461,1871.21,Longline,Industrial
+2016,3,North Coast,Tuna,572,2538.67,Trawl,Artisanal
+2017,3,North Coast,Tuna,381,2136.9,Trawl,Industrial
+2018,3,North Coast,Tuna,531,2165.88,Net,Industrial
+2019,3,North Coast,Tuna,245,1869.32,Net,Industrial
+2020,3,North Coast,Tuna,365,1961.68,Net,Industrial
+2021,3,North Coast,Tuna,621,2056.6,Trawl,Industrial
+2022,3,North Coast,Tuna,420,1534.57,Trawl,Industrial
+2023,3,North Coast,Tuna,493,2272.77,Longline,Industrial
+2024,3,North Coast,Tuna,360,1592.04,Trawl,Artisanal
+2015,4,North Coast,Tuna,304,2294.45,Net,Industrial
+2016,4,North Coast,Tuna,474,2056.07,Net,Industrial
+2017,4,North Coast,Tuna,561,1369.81,Longline,Artisanal
+2018,4,North Coast,Tuna,383,2395.87,Longline,Artisanal
+2019,4,North Coast,Tuna,516,1965.28,Trawl,Industrial
+2020,4,North Coast,Tuna,685,2209.15,Trawl,Industrial
+2021,4,North Coast,Tuna,474,2267.66,Longline,Industrial
+2022,4,North Coast,Tuna,489,2456.41,Net,Industrial
+2023,4,North Coast,Tuna,489,2227.23,Net,Artisanal
+2024,4,North Coast,Tuna,524,2041.19,Net,Industrial
+2015,5,North Coast,Tuna,575,1649.93,Trawl,Artisanal
+2016,5,North Coast,Tuna,422,2263.37,Trawl,Artisanal
+2017,5,North Coast,Tuna,587,2065.89,Net,Artisanal
+2018,5,North Coast,Tuna,407,2325.03,Longline,Artisanal
+2019,5,North Coast,Tuna,518,1904.92,Net,Artisanal
+2020,5,North Coast,Tuna,587,1955.23,Trawl,Industrial
+2021,5,North Coast,Tuna,365,1875.93,Trawl,Artisanal
+2022,5,North Coast,Tuna,534,1894,Trawl,Industrial
+2023,5,North Coast,Tuna,544,1677.55,Net,Artisanal
+2024,5,North Coast,Tuna,476,1933.63,Longline,Artisanal
+2015,6,North Coast,Tuna,443,1846.78,Trawl,Artisanal
+2016,6,North Coast,Tuna,415,2471.62,Trawl,Industrial
+2017,6,North Coast,Tuna,649,1625.16,Net,Artisanal
+2018,6,North Coast,Tuna,352,1955.59,Trawl,Industrial
+2019,6,North Coast,Tuna,563,2000.59,Net,Industrial
+2020,6,North Coast,Tuna,485,1908.88,Net,Artisanal
+2021,6,North Coast,Tuna,355,1739.03,Net,Artisanal
+2022,6,North Coast,Tuna,397,2032.52,Longline,Industrial
+2023,6,North Coast,Tuna,388,1972.44,Net,Industrial
+2024,6,North Coast,Tuna,554,2038.15,Net,Artisanal
+2015,7,North Coast,Tuna,467,2275.57,Trawl,Artisanal
+2016,7,North Coast,Tuna,645,2347.6,Trawl,Industrial
+2017,7,North Coast,Tuna,498,2190.35,Net,Artisanal
+2018,7,North Coast,Tuna,439,2155.3,Longline,Industrial
+2019,7,North Coast,Tuna,435,1968.12,Longline,Artisanal
+2020,7,North Coast,Tuna,394,1811.89,Longline,Industrial
+2021,7,North Coast,Tuna,493,2097.05,Longline,Industrial
+2022,7,North Coast,Tuna,399,1736.25,Net,Industrial
+2023,7,North Coast,Tuna,494,1912.75,Net,Artisanal
+2024,7,North Coast,Tuna,549,2343.67,Trawl,Artisanal
+2015,8,North Coast,Tuna,285,1986.4,Net,Industrial
+2016,8,North Coast,Tuna,447,1831.63,Trawl,Artisanal
+2017,8,North Coast,Tuna,537,1819.28,Longline,Artisanal
+2018,8,North Coast,Tuna,497,2172.92,Trawl,Industrial
+2019,8,North Coast,Tuna,355,2313.07,Longline,Industrial
+2020,8,North Coast,Tuna,548,2143.45,Trawl,Artisanal
+2021,8,North Coast,Tuna,496,2300.57,Trawl,Industrial
+2022,8,North Coast,Tuna,629,2190.1,Net,Industrial
+2023,8,North Coast,Tuna,546,1964.72,Net,Artisanal
+2024,8,North Coast,Tuna,396,1973.02,Trawl,Industrial
+2015,9,North Coast,Tuna,583,1863.66,Trawl,Artisanal
+2016,9,North Coast,Tuna,454,2454.05,Longline,Artisanal
+2017,9,North Coast,Tuna,568,1671.52,Net,Artisanal
+2018,9,North Coast,Tuna,670,2169.87,Trawl,Artisanal
+2019,9,North Coast,Tuna,463,2109.99,Trawl,Artisanal
+2020,9,North Coast,Tuna,584,1894.11,Net,Artisanal
+2021,9,North Coast,Tuna,294,2209.69,Longline,Industrial
+2022,9,North Coast,Tuna,180,1925.7,Trawl,Artisanal
+2023,9,North Coast,Tuna,285,2184.83,Trawl,Artisanal
+2024,9,North Coast,Tuna,514,2038.76,Net,Industrial
+2015,10,North Coast,Tuna,190,1997.21,Longline,Industrial
+2016,10,North Coast,Tuna,184,2105.34,Trawl,Artisanal
+2017,10,North Coast,Tuna,767,2259.15,Longline,Industrial
+2018,10,North Coast,Tuna,539,2026.93,Trawl,Industrial
+2019,10,North Coast,Tuna,532,1750.13,Trawl,Industrial
+2020,10,North Coast,Tuna,493,1690.54,Trawl,Artisanal
+2021,10,North Coast,Tuna,654,1755.18,Trawl,Artisanal
+2022,10,North Coast,Tuna,471,2207.57,Longline,Industrial
+2023,10,North Coast,Tuna,591,2118.43,Net,Industrial
+2024,10,North Coast,Tuna,512,1703.91,Trawl,Industrial
+2015,11,North Coast,Tuna,430,1867.36,Trawl,Industrial
+2016,11,North Coast,Tuna,394,1970.7,Net,Artisanal
+2017,11,North Coast,Tuna,287,2387.9,Trawl,Industrial
+2018,11,North Coast,Tuna,491,2562.56,Trawl,Artisanal
+2019,11,North Coast,Tuna,310,2464.03,Longline,Artisanal
+2020,11,North Coast,Tuna,443,2116.02,Longline,Industrial
+2021,11,North Coast,Tuna,358,2422.99,Net,Industrial
+2022,11,North Coast,Tuna,512,1774.54,Trawl,Artisanal
+2023,11,North Coast,Tuna,655,2485.67,Net,Industrial
+2024,11,North Coast,Tuna,616,1958.31,Net,Industrial
+2015,12,North Coast,Tuna,396,1704.96,Trawl,Industrial
+2016,12,North Coast,Tuna,245,1341.41,Longline,Industrial
+2017,12,North Coast,Tuna,475,2226.2,Longline,Artisanal
+2018,12,North Coast,Tuna,367,1619.48,Longline,Artisanal
+2019,12,North Coast,Tuna,434,1825.9,Trawl,Industrial
+2020,12,North Coast,Tuna,538,2033.93,Net,Artisanal
+2021,12,North Coast,Tuna,490,2199.96,Trawl,Industrial
+2022,12,North Coast,Tuna,772,2221.38,Net,Artisanal
+2023,12,North Coast,Tuna,503,1879.45,Longline,Artisanal
+2024,12,North Coast,Tuna,628,1952.27,Net,Artisanal
+2015,1,South Coast,Tuna,378,1815.95,Net,Industrial
+2016,1,South Coast,Tuna,473,2088.11,Longline,Industrial
+2017,1,South Coast,Tuna,595,2037.01,Net,Artisanal
+2018,1,South Coast,Tuna,581,2231.06,Longline,Artisanal
+2019,1,South Coast,Tuna,339,1748.68,Trawl,Industrial
+2020,1,South Coast,Tuna,426,1549.5,Net,Artisanal
+2021,1,South Coast,Tuna,499,2516.83,Longline,Artisanal
+2022,1,South Coast,Tuna,480,1572.61,Trawl,Artisanal
+2023,1,South Coast,Tuna,435,1978.43,Longline,Industrial
+2024,1,South Coast,Tuna,356,1552.45,Trawl,Artisanal
+2015,2,South Coast,Tuna,678,2070.94,Net,Industrial
+2016,2,South Coast,Tuna,593,1898.78,Net,Artisanal
+2017,2,South Coast,Tuna,632,1622.97,Longline,Artisanal
+2018,2,South Coast,Tuna,504,1622.88,Trawl,Industrial
+2019,2,South Coast,Tuna,630,1809.58,Trawl,Artisanal
+2020,2,South Coast,Tuna,551,2059.6,Net,Industrial
+2021,2,South Coast,Tuna,487,1922.37,Longline,Artisanal
+2022,2,South Coast,Tuna,417,1719.62,Net,Artisanal
+2023,2,South Coast,Tuna,351,1961.91,Longline,Industrial
+2024,2,South Coast,Tuna,536,1711.86,Trawl,Industrial
+2015,3,South Coast,Tuna,618,1781.33,Longline,Artisanal
+2016,3,South Coast,Tuna,470,1527.84,Trawl,Artisanal
+2017,3,South Coast,Tuna,391,1856,Longline,Artisanal
+2018,3,South Coast,Tuna,601,1672.58,Trawl,Industrial
+2019,3,South Coast,Tuna,372,2166.42,Trawl,Artisanal
+2020,3,South Coast,Tuna,476,2643.95,Trawl,Industrial
+2021,3,South Coast,Tuna,491,2269.82,Longline,Artisanal
+2022,3,South Coast,Tuna,609,1870.52,Longline,Industrial
+2023,3,South Coast,Tuna,290,2227.04,Net,Industrial
+2024,3,South Coast,Tuna,569,2224.68,Trawl,Industrial
+2015,4,South Coast,Tuna,383,2298.05,Trawl,Industrial
+2016,4,South Coast,Tuna,459,2455.76,Net,Artisanal
+2017,4,South Coast,Tuna,502,1870.36,Net,Industrial
+2018,4,South Coast,Tuna,499,2182.2,Net,Industrial
+2019,4,South Coast,Tuna,483,2029.61,Net,Industrial
+2020,4,South Coast,Tuna,382,1574.75,Net,Artisanal
+2021,4,South Coast,Tuna,543,1930.26,Longline,Industrial
+2022,4,South Coast,Tuna,538,2028.04,Longline,Artisanal
+2023,4,South Coast,Tuna,441,1746.83,Trawl,Artisanal
+2024,4,South Coast,Tuna,570,2276.62,Longline,Industrial
+2015,5,South Coast,Tuna,679,2298.51,Longline,Artisanal
+2016,5,South Coast,Tuna,540,2474.77,Longline,Industrial
+2017,5,South Coast,Tuna,598,2631.01,Net,Artisanal
+2018,5,South Coast,Tuna,554,1929.49,Net,Industrial
+2019,5,South Coast,Tuna,599,1998.3,Net,Industrial
+2020,5,South Coast,Tuna,556,2196.02,Trawl,Artisanal
+2021,5,South Coast,Tuna,469,1781.06,Longline,Artisanal
+2022,5,South Coast,Tuna,541,2510.37,Net,Industrial
+2023,5,South Coast,Tuna,588,1965.07,Longline,Industrial
+2024,5,South Coast,Tuna,401,2021.17,Net,Artisanal
+2015,6,South Coast,Tuna,527,1782.21,Net,Artisanal
+2016,6,South Coast,Tuna,643,2419.18,Trawl,Artisanal
+2017,6,South Coast,Tuna,422,1903.7,Trawl,Artisanal
+2018,6,South Coast,Tuna,498,2035.23,Trawl,Artisanal
+2019,6,South Coast,Tuna,484,2126.13,Net,Artisanal
+2020,6,South Coast,Tuna,658,2494.2,Trawl,Industrial
+2021,6,South Coast,Tuna,400,2393.22,Longline,Artisanal
+2022,6,South Coast,Tuna,515,2270.6,Net,Artisanal
+2023,6,South Coast,Tuna,469,1888.59,Trawl,Industrial
+2024,6,South Coast,Tuna,424,2077.95,Longline,Artisanal
+2015,7,South Coast,Tuna,761,2414.38,Trawl,Industrial
+2016,7,South Coast,Tuna,540,2069.88,Trawl,Industrial
+2017,7,South Coast,Tuna,629,1859.19,Net,Industrial
+2018,7,South Coast,Tuna,565,2480.67,Trawl,Industrial
+2019,7,South Coast,Tuna,611,2230.1,Longline,Artisanal
+2020,7,South Coast,Tuna,746,2303.09,Longline,Industrial
+2021,7,South Coast,Tuna,507,2168.92,Net,Artisanal
+2022,7,South Coast,Tuna,611,1671.8,Longline,Industrial
+2023,7,South Coast,Tuna,659,1942.62,Trawl,Industrial
+2024,7,South Coast,Tuna,662,1967.04,Longline,Industrial
+2015,8,South Coast,Tuna,835,2577.11,Trawl,Artisanal
+2016,8,South Coast,Tuna,534,1916.89,Longline,Industrial
+2017,8,South Coast,Tuna,507,1803.54,Net,Artisanal
+2018,8,South Coast,Tuna,531,1587.3,Trawl,Industrial
+2019,8,South Coast,Tuna,628,1776.2,Trawl,Artisanal
+2020,8,South Coast,Tuna,618,2011.08,Longline,Artisanal
+2021,8,South Coast,Tuna,537,1838.74,Trawl,Artisanal
+2022,8,South Coast,Tuna,556,2464.63,Longline,Industrial
+2023,8,South Coast,Tuna,617,1843.05,Net,Artisanal
+2024,8,South Coast,Tuna,313,1791.25,Trawl,Industrial
+2015,9,South Coast,Tuna,657,1695.14,Trawl,Industrial
+2016,9,South Coast,Tuna,389,2263.81,Net,Industrial
+2017,9,South Coast,Tuna,527,2285.95,Net,Industrial
+2018,9,South Coast,Tuna,709,1583.22,Longline,Industrial
+2019,9,South Coast,Tuna,528,1616.99,Trawl,Artisanal
+2020,9,South Coast,Tuna,419,2275.16,Longline,Industrial
+2021,9,South Coast,Tuna,451,2524.23,Net,Industrial
+2022,9,South Coast,Tuna,494,1759.45,Longline,Artisanal
+2023,9,South Coast,Tuna,378,1503.98,Net,Industrial
+2024,9,South Coast,Tuna,497,2037.44,Net,Industrial
+2015,10,South Coast,Tuna,490,2408.54,Longline,Artisanal
+2016,10,South Coast,Tuna,474,1767.56,Trawl,Artisanal
+2017,10,South Coast,Tuna,547,1642.36,Trawl,Artisanal
+2018,10,South Coast,Tuna,492,2424.56,Longline,Industrial
+2019,10,South Coast,Tuna,444,1860.26,Net,Industrial
+2020,10,South Coast,Tuna,443,1813.07,Net,Industrial
+2021,10,South Coast,Tuna,433,2004.86,Net,Industrial
+2022,10,South Coast,Tuna,433,1939.84,Net,Industrial
+2023,10,South Coast,Tuna,438,2138.5,Longline,Industrial
+2024,10,South Coast,Tuna,418,2359.84,Net,Industrial
+2015,11,South Coast,Tuna,393,1731.09,Longline,Artisanal
+2016,11,South Coast,Tuna,532,1508.91,Net,Industrial
+2017,11,South Coast,Tuna,508,2373.07,Trawl,Artisanal
+2018,11,South Coast,Tuna,661,2647.12,Trawl,Industrial
+2019,11,South Coast,Tuna,381,1900.23,Trawl,Industrial
+2020,11,South Coast,Tuna,582,2281.91,Longline,Artisanal
+2021,11,South Coast,Tuna,423,1977.98,Longline,Industrial
+2022,11,South Coast,Tuna,542,1649.52,Longline,Industrial
+2023,11,South Coast,Tuna,278,1985.86,Longline,Industrial
+2024,11,South Coast,Tuna,402,2300.34,Net,Artisanal
+2015,12,South Coast,Tuna,652,2250.04,Longline,Artisanal
+2016,12,South Coast,Tuna,606,2125.98,Longline,Artisanal
+2017,12,South Coast,Tuna,509,2051.41,Net,Artisanal
+2018,12,South Coast,Tuna,489,2141.93,Trawl,Artisanal
+2019,12,South Coast,Tuna,437,2039.48,Net,Industrial
+2020,12,South Coast,Tuna,489,1864.86,Trawl,Artisanal
+2021,12,South Coast,Tuna,416,2242.03,Net,Artisanal
+2022,12,South Coast,Tuna,428,2125.4,Net,Industrial
+2023,12,South Coast,Tuna,711,2636.42,Trawl,Industrial
+2024,12,South Coast,Tuna,598,2073.78,Net,Industrial
+2015,1,Offshore,Tuna,815,2053.63,Net,Industrial
+2016,1,Offshore,Tuna,609,2398.05,Trawl,Industrial
+2017,1,Offshore,Tuna,477,1617.81,Trawl,Artisanal
+2018,1,Offshore,Tuna,544,2289.74,Net,Industrial
+2019,1,Offshore,Tuna,528,1636.47,Longline,Artisanal
+2020,1,Offshore,Tuna,652,2315.19,Net,Artisanal
+2021,1,Offshore,Tuna,460,2156.97,Longline,Industrial
+2022,1,Offshore,Tuna,738,2150.03,Net,Artisanal
+2023,1,Offshore,Tuna,414,1471.86,Trawl,Artisanal
+2024,1,Offshore,Tuna,481,1653.39,Longline,Industrial
+2015,2,Offshore,Tuna,485,2591.14,Trawl,Artisanal
+2016,2,Offshore,Tuna,474,1996.55,Longline,Artisanal
+2017,2,Offshore,Tuna,713,1500.64,Net,Industrial
+2018,2,Offshore,Tuna,422,1938.96,Longline,Artisanal
+2019,2,Offshore,Tuna,569,1900.3,Net,Industrial
+2020,2,Offshore,Tuna,302,2547.64,Trawl,Industrial
+2021,2,Offshore,Tuna,369,2007.49,Trawl,Industrial
+2022,2,Offshore,Tuna,599,2570.51,Trawl,Artisanal
+2023,2,Offshore,Tuna,377,2103.04,Net,Industrial
+2024,2,Offshore,Tuna,503,1658.25,Longline,Artisanal
+2015,3,Offshore,Tuna,394,2085.73,Trawl,Artisanal
+2016,3,Offshore,Tuna,455,1868.65,Net,Industrial
+2017,3,Offshore,Tuna,377,2226.03,Trawl,Industrial
+2018,3,Offshore,Tuna,493,2061.49,Net,Industrial
+2019,3,Offshore,Tuna,512,1906.5,Net,Industrial
+2020,3,Offshore,Tuna,455,2564.5,Trawl,Industrial
+2021,3,Offshore,Tuna,263,1651.5,Trawl,Artisanal
+2022,3,Offshore,Tuna,449,1625.23,Longline,Artisanal
+2023,3,Offshore,Tuna,252,1776.97,Longline,Artisanal
+2024,3,Offshore,Tuna,407,1904.22,Trawl,Industrial
+2015,4,Offshore,Tuna,549,1649.63,Net,Industrial
+2016,4,Offshore,Tuna,430,2223.86,Net,Industrial
+2017,4,Offshore,Tuna,358,1793.83,Longline,Artisanal
+2018,4,Offshore,Tuna,591,1933.98,Net,Industrial
+2019,4,Offshore,Tuna,326,1760.81,Longline,Industrial
+2020,4,Offshore,Tuna,380,2195.88,Trawl,Artisanal
+2021,4,Offshore,Tuna,541,2301.92,Longline,Artisanal
+2022,4,Offshore,Tuna,275,2044.87,Longline,Industrial
+2023,4,Offshore,Tuna,571,2249.54,Longline,Artisanal
+2024,4,Offshore,Tuna,535,1830.92,Net,Industrial
+2015,5,Offshore,Tuna,589,1891.63,Longline,Artisanal
+2016,5,Offshore,Tuna,621,2127.03,Longline,Artisanal
+2017,5,Offshore,Tuna,344,2182.04,Longline,Artisanal
+2018,5,Offshore,Tuna,483,1541.79,Net,Industrial
+2019,5,Offshore,Tuna,276,2344.39,Net,Artisanal
+2020,5,Offshore,Tuna,635,1814.74,Longline,Industrial
+2021,5,Offshore,Tuna,683,1929.35,Trawl,Industrial
+2022,5,Offshore,Tuna,661,1993.08,Trawl,Industrial
+2023,5,Offshore,Tuna,497,1623.43,Trawl,Industrial
+2024,5,Offshore,Tuna,479,2221.54,Net,Industrial
+2015,6,Offshore,Tuna,469,1939.29,Net,Artisanal
+2016,6,Offshore,Tuna,620,2020.5,Net,Industrial
+2017,6,Offshore,Tuna,426,1873.61,Net,Artisanal
+2018,6,Offshore,Tuna,397,2144.9,Longline,Industrial
+2019,6,Offshore,Tuna,552,2118.97,Longline,Industrial
+2020,6,Offshore,Tuna,397,2305.86,Net,Artisanal
+2021,6,Offshore,Tuna,480,1802.52,Net,Artisanal
+2022,6,Offshore,Tuna,584,2389.58,Trawl,Industrial
+2023,6,Offshore,Tuna,719,2011.91,Net,Industrial
+2024,6,Offshore,Tuna,386,1547.21,Trawl,Industrial
+2015,7,Offshore,Tuna,392,1789.78,Net,Industrial
+2016,7,Offshore,Tuna,427,2169.97,Trawl,Artisanal
+2017,7,Offshore,Tuna,732,1669.59,Longline,Artisanal
+2018,7,Offshore,Tuna,572,1439.54,Trawl,Industrial
+2019,7,Offshore,Tuna,550,1920.91,Longline,Industrial
+2020,7,Offshore,Tuna,399,2152.41,Trawl,Artisanal
+2021,7,Offshore,Tuna,339,2288.61,Net,Artisanal
+2022,7,Offshore,Tuna,567,1541.59,Trawl,Artisanal
+2023,7,Offshore,Tuna,733,2196.51,Longline,Industrial
+2024,7,Offshore,Tuna,428,1837.89,Trawl,Artisanal
+2015,8,Offshore,Tuna,428,1726.71,Trawl,Industrial
+2016,8,Offshore,Tuna,641,1841.74,Trawl,Industrial
+2017,8,Offshore,Tuna,723,1961.74,Trawl,Artisanal
+2018,8,Offshore,Tuna,231,2003.91,Longline,Industrial
+2019,8,Offshore,Tuna,501,1952.95,Longline,Artisanal
+2020,8,Offshore,Tuna,505,1748.71,Net,Industrial
+2021,8,Offshore,Tuna,574,2077.21,Trawl,Industrial
+2022,8,Offshore,Tuna,566,2079.83,Net,Artisanal
+2023,8,Offshore,Tuna,456,2061.67,Longline,Industrial
+2024,8,Offshore,Tuna,701,1910.32,Net,Industrial
+2015,9,Offshore,Tuna,323,2046.74,Net,Industrial
+2016,9,Offshore,Tuna,488,1557.46,Trawl,Industrial
+2017,9,Offshore,Tuna,475,1791.31,Longline,Artisanal
+2018,9,Offshore,Tuna,250,1532.17,Longline,Artisanal
+2019,9,Offshore,Tuna,925,1725.25,Trawl,Artisanal
+2020,9,Offshore,Tuna,637,1899.27,Net,Industrial
+2021,9,Offshore,Tuna,624,2595.91,Longline,Industrial
+2022,9,Offshore,Tuna,508,2004.62,Longline,Artisanal
+2023,9,Offshore,Tuna,566,1936.58,Trawl,Industrial
+2024,9,Offshore,Tuna,411,1814.82,Trawl,Industrial
+2015,10,Offshore,Tuna,345,1757.55,Trawl,Industrial
+2016,10,Offshore,Tuna,659,1865.63,Longline,Artisanal
+2017,10,Offshore,Tuna,583,2350.87,Net,Industrial
+2018,10,Offshore,Tuna,517,2341.21,Net,Industrial
+2019,10,Offshore,Tuna,514,1905.63,Trawl,Industrial
+2020,10,Offshore,Tuna,465,2027,Trawl,Artisanal
+2021,10,Offshore,Tuna,592,2069.78,Trawl,Artisanal
+2022,10,Offshore,Tuna,516,1877.76,Net,Artisanal
+2023,10,Offshore,Tuna,469,1957.48,Longline,Industrial
+2024,10,Offshore,Tuna,570,2005.9,Net,Industrial
+2015,11,Offshore,Tuna,447,2330.84,Trawl,Artisanal
+2016,11,Offshore,Tuna,528,2034.42,Longline,Industrial
+2017,11,Offshore,Tuna,582,2241.9,Longline,Industrial
+2018,11,Offshore,Tuna,523,2512.8,Trawl,Industrial
+2019,11,Offshore,Tuna,312,1843.79,Net,Artisanal
+2020,11,Offshore,Tuna,492,2218.16,Trawl,Artisanal
+2021,11,Offshore,Tuna,498,1824.84,Trawl,Industrial
+2022,11,Offshore,Tuna,448,1425.92,Longline,Artisanal
+2023,11,Offshore,Tuna,538,1583.47,Longline,Industrial
+2024,11,Offshore,Tuna,585,1999.94,Longline,Industrial
+2015,12,Offshore,Tuna,631,2252.39,Longline,Artisanal
+2016,12,Offshore,Tuna,462,2042.3,Longline,Industrial
+2017,12,Offshore,Tuna,457,2168.47,Trawl,Artisanal
+2018,12,Offshore,Tuna,381,2600.97,Net,Artisanal
+2019,12,Offshore,Tuna,614,1519.26,Net,Industrial
+2020,12,Offshore,Tuna,534,2507.56,Net,Artisanal
+2021,12,Offshore,Tuna,399,2239.65,Longline,Industrial
+2022,12,Offshore,Tuna,600,2156.71,Trawl,Artisanal
+2023,12,Offshore,Tuna,409,1954.68,Longline,Artisanal
+2024,12,Offshore,Tuna,560,2137.46,Net,Artisanal
+2015,1,North Coast,Salmon,679,2458.19,Net,Industrial
+2016,1,North Coast,Salmon,488,2075.04,Trawl,Industrial
+2017,1,North Coast,Salmon,607,2460.31,Trawl,Industrial
+2018,1,North Coast,Salmon,438,2138.69,Trawl,Industrial
+2019,1,North Coast,Salmon,608,1943.59,Trawl,Industrial
+2020,1,North Coast,Salmon,529,1997.01,Net,Industrial
+2021,1,North Coast,Salmon,396,2321.45,Trawl,Artisanal
+2022,1,North Coast,Salmon,476,1612.71,Net,Artisanal
+2023,1,North Coast,Salmon,637,2058.15,Trawl,Industrial
+2024,1,North Coast,Salmon,407,2115.94,Longline,Artisanal
+2015,2,North Coast,Salmon,473,2278.53,Longline,Artisanal
+2016,2,North Coast,Salmon,408,1565.7,Trawl,Artisanal
+2017,2,North Coast,Salmon,545,1889.19,Longline,Artisanal
+2018,2,North Coast,Salmon,557,2190.03,Net,Artisanal
+2019,2,North Coast,Salmon,507,1584.9,Net,Artisanal
+2020,2,North Coast,Salmon,457,2454.22,Net,Industrial
+2021,2,North Coast,Salmon,272,1716.76,Trawl,Artisanal
+2022,2,North Coast,Salmon,471,1936.65,Longline,Industrial
+2023,2,North Coast,Salmon,638,2356.92,Longline,Industrial
+2024,2,North Coast,Salmon,413,2328.2,Longline,Artisanal
+2015,3,North Coast,Salmon,733,1507.3,Longline,Industrial
+2016,3,North Coast,Salmon,576,2321.34,Trawl,Industrial
+2017,3,North Coast,Salmon,471,1743.92,Net,Industrial
+2018,3,North Coast,Salmon,684,1813.52,Trawl,Industrial
+2019,3,North Coast,Salmon,655,2117.27,Net,Artisanal
+2020,3,North Coast,Salmon,464,1693.92,Net,Industrial
+2021,3,North Coast,Salmon,574,1707.56,Longline,Industrial
+2022,3,North Coast,Salmon,637,1690.86,Trawl,Artisanal
+2023,3,North Coast,Salmon,396,2433.83,Net,Artisanal
+2024,3,North Coast,Salmon,538,1810.75,Net,Industrial
+2015,4,North Coast,Salmon,493,1607.95,Net,Artisanal
+2016,4,North Coast,Salmon,391,1420.46,Trawl,Industrial
+2017,4,North Coast,Salmon,737,1763.82,Net,Industrial
+2018,4,North Coast,Salmon,513,1786.91,Trawl,Artisanal
+2019,4,North Coast,Salmon,453,1706.1,Longline,Artisanal
+2020,4,North Coast,Salmon,584,2452.33,Longline,Industrial
+2021,4,North Coast,Salmon,649,2530.77,Longline,Industrial
+2022,4,North Coast,Salmon,599,2223.06,Net,Industrial
+2023,4,North Coast,Salmon,636,2281.34,Trawl,Artisanal
+2024,4,North Coast,Salmon,144,2038.8,Longline,Industrial
+2015,5,North Coast,Salmon,513,2493.56,Trawl,Artisanal
+2016,5,North Coast,Salmon,472,2224.11,Trawl,Industrial
+2017,5,North Coast,Salmon,412,2462.18,Net,Industrial
+2018,5,North Coast,Salmon,615,1983,Trawl,Industrial
+2019,5,North Coast,Salmon,447,2056.19,Longline,Artisanal
+2020,5,North Coast,Salmon,408,1929.49,Net,Industrial
+2021,5,North Coast,Salmon,508,2302.9,Net,Industrial
+2022,5,North Coast,Salmon,515,1815.79,Trawl,Artisanal
+2023,5,North Coast,Salmon,699,2153.26,Net,Industrial
+2024,5,North Coast,Salmon,403,1871.57,Net,Industrial
+2015,6,North Coast,Salmon,651,1682.18,Trawl,Industrial
+2016,6,North Coast,Salmon,541,1907.66,Longline,Artisanal
+2017,6,North Coast,Salmon,406,2199.02,Longline,Artisanal
+2018,6,North Coast,Salmon,579,1880.27,Net,Industrial
+2019,6,North Coast,Salmon,481,1724.86,Net,Industrial
+2020,6,North Coast,Salmon,581,1992.62,Longline,Artisanal
+2021,6,North Coast,Salmon,649,2040.38,Trawl,Industrial
+2022,6,North Coast,Salmon,628,1876.8,Net,Artisanal
+2023,6,North Coast,Salmon,616,1827.3,Net,Artisanal
+2024,6,North Coast,Salmon,371,1964.94,Trawl,Industrial
+2015,7,North Coast,Salmon,310,2184.6,Trawl,Artisanal
+2016,7,North Coast,Salmon,560,2510.73,Trawl,Industrial
+2017,7,North Coast,Salmon,348,1847.02,Longline,Artisanal
+2018,7,North Coast,Salmon,467,1816.92,Net,Artisanal
+2019,7,North Coast,Salmon,591,1746.79,Net,Industrial
+2020,7,North Coast,Salmon,705,2214.77,Trawl,Artisanal
+2021,7,North Coast,Salmon,557,2131.97,Longline,Artisanal
+2022,7,North Coast,Salmon,475,2029.91,Net,Industrial
+2023,7,North Coast,Salmon,626,2623.18,Trawl,Industrial
+2024,7,North Coast,Salmon,320,1905.91,Longline,Industrial
+2015,8,North Coast,Salmon,434,1768.23,Net,Industrial
+2016,8,North Coast,Salmon,389,1755.23,Trawl,Industrial
+2017,8,North Coast,Salmon,514,1866.83,Net,Industrial
+2018,8,North Coast,Salmon,436,1860.9,Net,Artisanal
+2019,8,North Coast,Salmon,377,1647.66,Net,Artisanal
+2020,8,North Coast,Salmon,388,2025.96,Longline,Industrial
+2021,8,North Coast,Salmon,445,1819.36,Trawl,Industrial
+2022,8,North Coast,Salmon,479,2063.64,Trawl,Artisanal
+2023,8,North Coast,Salmon,597,1937.59,Longline,Industrial
+2024,8,North Coast,Salmon,464,1936.08,Trawl,Industrial
+2015,9,North Coast,Salmon,594,2191.74,Net,Artisanal
+2016,9,North Coast,Salmon,681,2129.06,Longline,Artisanal
+2017,9,North Coast,Salmon,483,1851.44,Net,Industrial
+2018,9,North Coast,Salmon,571,2366.17,Trawl,Artisanal
+2019,9,North Coast,Salmon,514,1734.37,Longline,Artisanal
+2020,9,North Coast,Salmon,557,2047.43,Longline,Artisanal
+2021,9,North Coast,Salmon,615,1464.83,Net,Industrial
+2022,9,North Coast,Salmon,764,2369.97,Longline,Artisanal
+2023,9,North Coast,Salmon,446,2255.54,Longline,Industrial
+2024,9,North Coast,Salmon,627,2289.79,Trawl,Artisanal
+2015,10,North Coast,Salmon,358,2106.15,Net,Artisanal
+2016,10,North Coast,Salmon,490,1807.72,Trawl,Artisanal
+2017,10,North Coast,Salmon,355,2255.32,Trawl,Industrial
+2018,10,North Coast,Salmon,654,1982.18,Trawl,Artisanal
+2019,10,North Coast,Salmon,445,2260.86,Longline,Artisanal
+2020,10,North Coast,Salmon,447,2237.69,Trawl,Industrial
+2021,10,North Coast,Salmon,456,1842.26,Longline,Industrial
+2022,10,North Coast,Salmon,638,1735.37,Trawl,Artisanal
+2023,10,North Coast,Salmon,258,1730.99,Trawl,Industrial
+2024,10,North Coast,Salmon,593,1488,Net,Artisanal
+2015,11,North Coast,Salmon,393,2431.41,Net,Industrial
+2016,11,North Coast,Salmon,474,1626.06,Longline,Artisanal
+2017,11,North Coast,Salmon,476,2444.02,Net,Industrial
+2018,11,North Coast,Salmon,636,2217.94,Longline,Artisanal
+2019,11,North Coast,Salmon,468,1524.34,Net,Artisanal
+2020,11,North Coast,Salmon,611,1791.21,Trawl,Artisanal
+2021,11,North Coast,Salmon,482,2614.14,Trawl,Artisanal
+2022,11,North Coast,Salmon,494,1906.61,Trawl,Artisanal
+2023,11,North Coast,Salmon,432,1573.58,Trawl,Industrial
+2024,11,North Coast,Salmon,559,2111.14,Net,Industrial
+2015,12,North Coast,Salmon,601,2273.73,Longline,Industrial
+2016,12,North Coast,Salmon,512,2219.09,Net,Industrial
+2017,12,North Coast,Salmon,475,1852.68,Trawl,Industrial
+2018,12,North Coast,Salmon,385,2179.07,Trawl,Industrial
+2019,12,North Coast,Salmon,273,2398.54,Trawl,Artisanal
+2020,12,North Coast,Salmon,458,1624.37,Longline,Artisanal
+2021,12,North Coast,Salmon,359,2020.07,Longline,Artisanal
+2022,12,North Coast,Salmon,636,1892.4,Net,Industrial
+2023,12,North Coast,Salmon,346,1679.17,Trawl,Industrial
+2024,12,North Coast,Salmon,648,1551.1,Net,Artisanal
+2015,1,South Coast,Salmon,620,1651.1,Longline,Industrial
+2016,1,South Coast,Salmon,425,1914.89,Trawl,Artisanal
+2017,1,South Coast,Salmon,320,1706.96,Trawl,Industrial
+2018,1,South Coast,Salmon,429,1549.07,Longline,Artisanal
+2019,1,South Coast,Salmon,628,2143.81,Net,Artisanal
+2020,1,South Coast,Salmon,474,1900.42,Longline,Industrial
+2021,1,South Coast,Salmon,372,2108.46,Net,Industrial
+2022,1,South Coast,Salmon,354,2257.72,Trawl,Artisanal
+2023,1,South Coast,Salmon,652,1755.32,Trawl,Industrial
+2024,1,South Coast,Salmon,581,2153.35,Trawl,Artisanal
+2015,2,South Coast,Salmon,542,1696.85,Trawl,Artisanal
+2016,2,South Coast,Salmon,571,1799.22,Net,Artisanal
+2017,2,South Coast,Salmon,710,1542.56,Longline,Artisanal
+2018,2,South Coast,Salmon,490,2237.99,Longline,Industrial
+2019,2,South Coast,Salmon,554,1536.36,Trawl,Industrial
+2020,2,South Coast,Salmon,547,1723.86,Net,Industrial
+2021,2,South Coast,Salmon,504,1859.65,Trawl,Artisanal
+2022,2,South Coast,Salmon,471,2293.22,Trawl,Artisanal
+2023,2,South Coast,Salmon,473,1886.24,Net,Artisanal
+2024,2,South Coast,Salmon,490,1844.68,Net,Artisanal
+2015,3,South Coast,Salmon,470,2417.62,Trawl,Artisanal
+2016,3,South Coast,Salmon,398,1689.22,Net,Industrial
+2017,3,South Coast,Salmon,564,2065.18,Longline,Industrial
+2018,3,South Coast,Salmon,555,1920.87,Longline,Industrial
+2019,3,South Coast,Salmon,422,2745.68,Net,Industrial
+2020,3,South Coast,Salmon,432,2072.08,Longline,Artisanal
+2021,3,South Coast,Salmon,543,2614.29,Trawl,Industrial
+2022,3,South Coast,Salmon,581,1912.64,Longline,Industrial
+2023,3,South Coast,Salmon,634,1660.52,Trawl,Artisanal
+2024,3,South Coast,Salmon,608,1780.45,Trawl,Industrial
+2015,4,South Coast,Salmon,722,1944.88,Net,Artisanal
+2016,4,South Coast,Salmon,356,2085.23,Net,Artisanal
+2017,4,South Coast,Salmon,548,1705.12,Trawl,Artisanal
+2018,4,South Coast,Salmon,755,1838.71,Trawl,Artisanal
+2019,4,South Coast,Salmon,721,1730.17,Longline,Artisanal
+2020,4,South Coast,Salmon,440,2107.62,Trawl,Industrial
+2021,4,South Coast,Salmon,529,2054.82,Trawl,Artisanal
+2022,4,South Coast,Salmon,544,1596.37,Net,Industrial
+2023,4,South Coast,Salmon,504,1754.27,Longline,Industrial
+2024,4,South Coast,Salmon,389,1741.92,Trawl,Artisanal
+2015,5,South Coast,Salmon,449,1996.07,Longline,Industrial
+2016,5,South Coast,Salmon,640,1990.68,Longline,Artisanal
+2017,5,South Coast,Salmon,745,2402.1,Longline,Industrial
+2018,5,South Coast,Salmon,535,2335.23,Trawl,Artisanal
+2019,5,South Coast,Salmon,351,1896.96,Trawl,Artisanal
+2020,5,South Coast,Salmon,131,1956.24,Net,Industrial
+2021,5,South Coast,Salmon,512,1901.15,Net,Artisanal
+2022,5,South Coast,Salmon,450,1960.61,Net,Industrial
+2023,5,South Coast,Salmon,401,1967.52,Longline,Industrial
+2024,5,South Coast,Salmon,297,2242.93,Net,Artisanal
+2015,6,South Coast,Salmon,656,1932.89,Net,Artisanal
+2016,6,South Coast,Salmon,433,1790.01,Longline,Artisanal
+2017,6,South Coast,Salmon,389,2259.41,Net,Artisanal
+2018,6,South Coast,Salmon,612,1865.71,Longline,Industrial
+2019,6,South Coast,Salmon,589,1970.3,Net,Industrial
+2020,6,South Coast,Salmon,541,2040.09,Net,Artisanal
+2021,6,South Coast,Salmon,474,2308.8,Net,Artisanal
+2022,6,South Coast,Salmon,469,1964.41,Net,Industrial
+2023,6,South Coast,Salmon,541,1956.15,Net,Artisanal
+2024,6,South Coast,Salmon,450,2104.6,Longline,Artisanal
+2015,7,South Coast,Salmon,435,1767.06,Longline,Artisanal
+2016,7,South Coast,Salmon,677,1991.35,Trawl,Artisanal
+2017,7,South Coast,Salmon,372,2184.96,Trawl,Industrial
+2018,7,South Coast,Salmon,380,2007.39,Net,Industrial
+2019,7,South Coast,Salmon,375,1838.57,Net,Artisanal
+2020,7,South Coast,Salmon,430,1683.51,Longline,Artisanal
+2021,7,South Coast,Salmon,569,1986.48,Net,Industrial
+2022,7,South Coast,Salmon,464,2269.7,Net,Artisanal
+2023,7,South Coast,Salmon,419,2324.32,Trawl,Industrial
+2024,7,South Coast,Salmon,459,2404.03,Net,Industrial
+2015,8,South Coast,Salmon,553,2173.8,Net,Artisanal
+2016,8,South Coast,Salmon,434,1580.38,Trawl,Artisanal
+2017,8,South Coast,Salmon,633,2154.17,Net,Artisanal
+2018,8,South Coast,Salmon,439,1970.57,Longline,Industrial
+2019,8,South Coast,Salmon,462,1892.49,Trawl,Industrial
+2020,8,South Coast,Salmon,539,2254.21,Trawl,Artisanal
+2021,8,South Coast,Salmon,399,2036.26,Longline,Artisanal
+2022,8,South Coast,Salmon,406,1843.11,Net,Artisanal
+2023,8,South Coast,Salmon,556,1944.94,Net,Artisanal
+2024,8,South Coast,Salmon,290,1856.7,Longline,Artisanal
+2015,9,South Coast,Salmon,341,2110.95,Trawl,Industrial
+2016,9,South Coast,Salmon,612,1604.16,Trawl,Industrial
+2017,9,South Coast,Salmon,515,2127.85,Longline,Artisanal
+2018,9,South Coast,Salmon,425,2287.28,Longline,Artisanal
+2019,9,South Coast,Salmon,541,1830.92,Net,Industrial
+2020,9,South Coast,Salmon,664,1683.02,Longline,Artisanal
+2021,9,South Coast,Salmon,596,1720.89,Longline,Artisanal
+2022,9,South Coast,Salmon,532,2181.02,Trawl,Artisanal
+2023,9,South Coast,Salmon,541,1690.22,Longline,Industrial
+2024,9,South Coast,Salmon,492,2337.03,Net,Industrial
+2015,10,South Coast,Salmon,382,1413.76,Net,Industrial
+2016,10,South Coast,Salmon,581,1786.7,Net,Artisanal
+2017,10,South Coast,Salmon,485,1679.85,Trawl,Industrial
+2018,10,South Coast,Salmon,331,1996.71,Trawl,Industrial
+2019,10,South Coast,Salmon,428,1718.93,Longline,Industrial
+2020,10,South Coast,Salmon,454,2221.17,Trawl,Industrial
+2021,10,South Coast,Salmon,586,2472.48,Trawl,Industrial
+2022,10,South Coast,Salmon,635,2169.04,Longline,Industrial
+2023,10,South Coast,Salmon,371,2295.88,Longline,Artisanal
+2024,10,South Coast,Salmon,572,1960.82,Trawl,Industrial
+2015,11,South Coast,Salmon,529,1446.28,Longline,Artisanal
+2016,11,South Coast,Salmon,418,2043.05,Longline,Artisanal
+2017,11,South Coast,Salmon,413,2418.46,Longline,Artisanal
+2018,11,South Coast,Salmon,353,2230.15,Trawl,Artisanal
+2019,11,South Coast,Salmon,606,1045.96,Net,Artisanal
+2020,11,South Coast,Salmon,557,1688.99,Net,Industrial
+2021,11,South Coast,Salmon,375,1489.96,Net,Artisanal
+2022,11,South Coast,Salmon,457,1884.29,Net,Industrial
+2023,11,South Coast,Salmon,376,1445.57,Trawl,Artisanal
+2024,11,South Coast,Salmon,513,2370.6,Trawl,Industrial
+2015,12,South Coast,Salmon,693,2108.26,Net,Industrial
+2016,12,South Coast,Salmon,496,2418.11,Trawl,Industrial
+2017,12,South Coast,Salmon,613,2050.23,Longline,Artisanal
+2018,12,South Coast,Salmon,725,1798.23,Trawl,Industrial
+2019,12,South Coast,Salmon,774,2183.81,Trawl,Artisanal
+2020,12,South Coast,Salmon,343,1927.64,Net,Industrial
+2021,12,South Coast,Salmon,431,2054.77,Trawl,Artisanal
+2022,12,South Coast,Salmon,551,1624.31,Longline,Industrial
+2023,12,South Coast,Salmon,561,1633.74,Trawl,Artisanal
+2024,12,South Coast,Salmon,498,1740.53,Trawl,Artisanal
+2015,1,Offshore,Salmon,657,2338.14,Longline,Industrial
+2016,1,Offshore,Salmon,426,2911.53,Net,Industrial
+2017,1,Offshore,Salmon,489,1893.24,Trawl,Industrial
+2018,1,Offshore,Salmon,576,2321.3,Net,Artisanal
+2019,1,Offshore,Salmon,606,1116.25,Trawl,Artisanal
+2020,1,Offshore,Salmon,714,1813.48,Longline,Artisanal
+2021,1,Offshore,Salmon,492,1882.51,Net,Artisanal
+2022,1,Offshore,Salmon,419,1941.19,Net,Artisanal
+2023,1,Offshore,Salmon,525,2133.15,Trawl,Artisanal
+2024,1,Offshore,Salmon,405,1777.34,Longline,Artisanal
+2015,2,Offshore,Salmon,618,1566.37,Longline,Industrial
+2016,2,Offshore,Salmon,368,2294.11,Net,Artisanal
+2017,2,Offshore,Salmon,767,2029.24,Net,Artisanal
+2018,2,Offshore,Salmon,608,1562.18,Longline,Artisanal
+2019,2,Offshore,Salmon,452,1983.22,Longline,Artisanal
+2020,2,Offshore,Salmon,396,1712.77,Trawl,Artisanal
+2021,2,Offshore,Salmon,609,2497.59,Trawl,Industrial
+2022,2,Offshore,Salmon,661,2402.36,Longline,Artisanal
+2023,2,Offshore,Salmon,231,1047.8,Trawl,Industrial
+2024,2,Offshore,Salmon,728,2471.63,Net,Industrial
+2015,3,Offshore,Salmon,436,1753.9,Net,Artisanal
+2016,3,Offshore,Salmon,369,1987.93,Trawl,Industrial
+2017,3,Offshore,Salmon,512,1964.15,Trawl,Artisanal
+2018,3,Offshore,Salmon,453,1998.27,Net,Industrial
+2019,3,Offshore,Salmon,655,2264.19,Longline,Artisanal
+2020,3,Offshore,Salmon,579,1557.46,Net,Industrial
+2021,3,Offshore,Salmon,418,2473.8,Longline,Industrial
+2022,3,Offshore,Salmon,588,2300.11,Longline,Industrial
+2023,3,Offshore,Salmon,469,2622.91,Trawl,Artisanal
+2024,3,Offshore,Salmon,495,2261.48,Longline,Artisanal
+2015,4,Offshore,Salmon,514,2034.4,Net,Industrial
+2016,4,Offshore,Salmon,491,2399.74,Trawl,Artisanal
+2017,4,Offshore,Salmon,372,2264.4,Trawl,Industrial
+2018,4,Offshore,Salmon,705,2130.25,Net,Industrial
+2019,4,Offshore,Salmon,415,1561.12,Net,Industrial
+2020,4,Offshore,Salmon,393,2203.64,Trawl,Artisanal
+2021,4,Offshore,Salmon,331,1515.34,Longline,Artisanal
+2022,4,Offshore,Salmon,556,2217.19,Longline,Artisanal
+2023,4,Offshore,Salmon,392,2188.9,Longline,Industrial
+2024,4,Offshore,Salmon,445,2003.79,Net,Artisanal
+2015,5,Offshore,Salmon,516,1666.6,Longline,Artisanal
+2016,5,Offshore,Salmon,454,1763.94,Trawl,Industrial
+2017,5,Offshore,Salmon,473,2503.79,Longline,Artisanal
+2018,5,Offshore,Salmon,516,1777.16,Trawl,Industrial
+2019,5,Offshore,Salmon,591,2241.25,Longline,Artisanal
+2020,5,Offshore,Salmon,737,1765.59,Longline,Artisanal
+2021,5,Offshore,Salmon,382,1968.82,Net,Industrial
+2022,5,Offshore,Salmon,629,2072.66,Longline,Industrial
+2023,5,Offshore,Salmon,600,2082.18,Trawl,Artisanal
+2024,5,Offshore,Salmon,155,1294.9,Net,Artisanal
+2015,6,Offshore,Salmon,493,2281.07,Trawl,Industrial
+2016,6,Offshore,Salmon,565,2337.74,Trawl,Artisanal
+2017,6,Offshore,Salmon,699,1807.61,Net,Artisanal
+2018,6,Offshore,Salmon,332,1647.97,Longline,Industrial
+2019,6,Offshore,Salmon,475,1946.9,Trawl,Artisanal
+2020,6,Offshore,Salmon,249,2323.52,Trawl,Artisanal
+2021,6,Offshore,Salmon,558,1774.21,Trawl,Industrial
+2022,6,Offshore,Salmon,645,2012.13,Trawl,Artisanal
+2023,6,Offshore,Salmon,512,1688.73,Trawl,Industrial
+2024,6,Offshore,Salmon,585,2251.88,Longline,Industrial
+2015,7,Offshore,Salmon,389,1706.08,Trawl,Industrial
+2016,7,Offshore,Salmon,632,2187.66,Longline,Industrial
+2017,7,Offshore,Salmon,495,1996.92,Longline,Industrial
+2018,7,Offshore,Salmon,523,1559.31,Trawl,Industrial
+2019,7,Offshore,Salmon,508,2083.99,Net,Industrial
+2020,7,Offshore,Salmon,556,1900.23,Longline,Industrial
+2021,7,Offshore,Salmon,557,2566.02,Trawl,Industrial
+2022,7,Offshore,Salmon,600,1911.55,Net,Artisanal
+2023,7,Offshore,Salmon,598,1657.47,Longline,Artisanal
+2024,7,Offshore,Salmon,687,2878,Trawl,Artisanal
+2015,8,Offshore,Salmon,588,1853.84,Net,Industrial
+2016,8,Offshore,Salmon,497,2404.25,Longline,Artisanal
+2017,8,Offshore,Salmon,271,1740.55,Trawl,Industrial
+2018,8,Offshore,Salmon,513,2059.5,Trawl,Industrial
+2019,8,Offshore,Salmon,317,1768.73,Longline,Artisanal
+2020,8,Offshore,Salmon,628,1734.25,Net,Artisanal
+2021,8,Offshore,Salmon,372,2118.41,Longline,Artisanal
+2022,8,Offshore,Salmon,440,2091.34,Trawl,Industrial
+2023,8,Offshore,Salmon,614,1790.44,Longline,Industrial
+2024,8,Offshore,Salmon,386,2037.27,Trawl,Artisanal
+2015,9,Offshore,Salmon,568,1897.71,Trawl,Industrial
+2016,9,Offshore,Salmon,352,2107.01,Trawl,Artisanal
+2017,9,Offshore,Salmon,332,2054.28,Longline,Artisanal
+2018,9,Offshore,Salmon,583,1838.91,Net,Artisanal
+2019,9,Offshore,Salmon,562,2444.87,Trawl,Industrial
+2020,9,Offshore,Salmon,510,2229.74,Trawl,Artisanal
+2021,9,Offshore,Salmon,394,2355,Longline,Industrial
+2022,9,Offshore,Salmon,541,1951.39,Trawl,Artisanal
+2023,9,Offshore,Salmon,636,1879.59,Trawl,Artisanal
+2024,9,Offshore,Salmon,481,2395.56,Trawl,Artisanal
+2015,10,Offshore,Salmon,594,1909.01,Trawl,Industrial
+2016,10,Offshore,Salmon,602,1709.16,Net,Industrial
+2017,10,Offshore,Salmon,497,2201.15,Longline,Industrial
+2018,10,Offshore,Salmon,526,1994.78,Trawl,Artisanal
+2019,10,Offshore,Salmon,450,1732.35,Longline,Industrial
+2020,10,Offshore,Salmon,420,1765.88,Longline,Artisanal
+2021,10,Offshore,Salmon,466,2067.88,Longline,Artisanal
+2022,10,Offshore,Salmon,246,1589.67,Longline,Artisanal
+2023,10,Offshore,Salmon,526,1597.77,Trawl,Artisanal
+2024,10,Offshore,Salmon,646,1987.93,Net,Industrial
+2015,11,Offshore,Salmon,563,2436.23,Trawl,Industrial
+2016,11,Offshore,Salmon,676,2400.17,Net,Industrial
+2017,11,Offshore,Salmon,499,1646.34,Longline,Industrial
+2018,11,Offshore,Salmon,265,1804.76,Longline,Industrial
+2019,11,Offshore,Salmon,439,1866.2,Trawl,Industrial
+2020,11,Offshore,Salmon,432,1840.74,Trawl,Industrial
+2021,11,Offshore,Salmon,617,2217.06,Trawl,Artisanal
+2022,11,Offshore,Salmon,575,1605.9,Longline,Industrial
+2023,11,Offshore,Salmon,702,1630.92,Trawl,Industrial
+2024,11,Offshore,Salmon,465,1789.12,Net,Artisanal
+2015,12,Offshore,Salmon,599,2346.94,Trawl,Industrial
+2016,12,Offshore,Salmon,459,2086.29,Longline,Industrial
+2017,12,Offshore,Salmon,432,2151.28,Trawl,Industrial
+2018,12,Offshore,Salmon,549,2070.68,Net,Industrial
+2019,12,Offshore,Salmon,400,1903.62,Trawl,Industrial
+2020,12,Offshore,Salmon,628,2325.25,Longline,Industrial
+2021,12,Offshore,Salmon,543,2689.05,Longline,Industrial
+2022,12,Offshore,Salmon,483,1957.78,Trawl,Artisanal
+2023,12,Offshore,Salmon,412,1896.39,Net,Industrial
+2024,12,Offshore,Salmon,379,2127.54,Longline,Artisanal
+2015,1,North Coast,Sardine,202,2173.78,Longline,Industrial
+2016,1,North Coast,Sardine,569,1985.27,Net,Industrial
+2017,1,North Coast,Sardine,459,2347.66,Net,Artisanal
+2018,1,North Coast,Sardine,427,2082.05,Net,Industrial
+2019,1,North Coast,Sardine,619,2318.66,Trawl,Artisanal
+2020,1,North Coast,Sardine,781,2722.79,Trawl,Artisanal
+2021,1,North Coast,Sardine,496,1852.77,Longline,Industrial
+2022,1,North Coast,Sardine,523,1974.32,Trawl,Artisanal
+2023,1,North Coast,Sardine,603,1858.54,Net,Industrial
+2024,1,North Coast,Sardine,694,1834.04,Longline,Artisanal
+2015,2,North Coast,Sardine,528,1733.88,Longline,Artisanal
+2016,2,North Coast,Sardine,492,1998.95,Net,Industrial
+2017,2,North Coast,Sardine,512,1636.46,Net,Industrial
+2018,2,North Coast,Sardine,522,1466.16,Longline,Artisanal
+2019,2,North Coast,Sardine,543,1993.72,Trawl,Artisanal
+2020,2,North Coast,Sardine,415,1733.4,Trawl,Industrial
+2021,2,North Coast,Sardine,469,1598.23,Net,Industrial
+2022,2,North Coast,Sardine,293,1848.61,Longline,Artisanal
+2023,2,North Coast,Sardine,474,1805.22,Trawl,Industrial
+2024,2,North Coast,Sardine,439,1973.58,Trawl,Artisanal
+2015,3,North Coast,Sardine,598,1555.54,Longline,Industrial
+2016,3,North Coast,Sardine,494,2290.32,Longline,Industrial
+2017,3,North Coast,Sardine,386,1859.98,Longline,Artisanal
+2018,3,North Coast,Sardine,436,2447.43,Trawl,Industrial
+2019,3,North Coast,Sardine,459,2577.02,Longline,Industrial
+2020,3,North Coast,Sardine,370,1992.68,Longline,Artisanal
+2021,3,North Coast,Sardine,619,2030.7,Longline,Artisanal
+2022,3,North Coast,Sardine,529,2633.75,Net,Industrial
+2023,3,North Coast,Sardine,554,1753.65,Trawl,Artisanal
+2024,3,North Coast,Sardine,311,1611.06,Net,Industrial
+2015,4,North Coast,Sardine,353,2522.28,Longline,Artisanal
+2016,4,North Coast,Sardine,435,1541.8,Net,Artisanal
+2017,4,North Coast,Sardine,651,1800.04,Longline,Artisanal
+2018,4,North Coast,Sardine,455,1785.77,Longline,Industrial
+2019,4,North Coast,Sardine,637,1808.69,Net,Industrial
+2020,4,North Coast,Sardine,560,1819.62,Trawl,Artisanal
+2021,4,North Coast,Sardine,479,2431.09,Longline,Artisanal
+2022,4,North Coast,Sardine,416,2128.59,Trawl,Artisanal
+2023,4,North Coast,Sardine,663,1662.88,Longline,Artisanal
+2024,4,North Coast,Sardine,572,2054.19,Trawl,Artisanal
+2015,5,North Coast,Sardine,497,1621.82,Longline,Industrial
+2016,5,North Coast,Sardine,518,2093.68,Net,Industrial
+2017,5,North Coast,Sardine,426,1751.69,Net,Industrial
+2018,5,North Coast,Sardine,724,1787.7,Longline,Artisanal
+2019,5,North Coast,Sardine,570,1342.7,Trawl,Industrial
+2020,5,North Coast,Sardine,609,1734.95,Net,Industrial
+2021,5,North Coast,Sardine,380,1525.05,Trawl,Artisanal
+2022,5,North Coast,Sardine,314,1738.98,Longline,Artisanal
+2023,5,North Coast,Sardine,736,2042.73,Net,Industrial
+2024,5,North Coast,Sardine,508,2118.74,Net,Artisanal
+2015,6,North Coast,Sardine,434,1785.38,Longline,Industrial
+2016,6,North Coast,Sardine,492,1533.13,Net,Industrial
+2017,6,North Coast,Sardine,442,2218.32,Net,Industrial
+2018,6,North Coast,Sardine,623,2073.24,Trawl,Artisanal
+2019,6,North Coast,Sardine,585,2299.77,Trawl,Industrial
+2020,6,North Coast,Sardine,774,1966.29,Net,Industrial
+2021,6,North Coast,Sardine,338,2011.72,Longline,Artisanal
+2022,6,North Coast,Sardine,459,1918.43,Net,Industrial
+2023,6,North Coast,Sardine,559,2685.1,Net,Industrial
+2024,6,North Coast,Sardine,699,1925.33,Net,Industrial
+2015,7,North Coast,Sardine,378,1680.63,Trawl,Artisanal
+2016,7,North Coast,Sardine,502,2190.48,Trawl,Artisanal
+2017,7,North Coast,Sardine,453,2595.19,Net,Artisanal
+2018,7,North Coast,Sardine,311,1483.18,Trawl,Industrial
+2019,7,North Coast,Sardine,371,2353.1,Trawl,Industrial
+2020,7,North Coast,Sardine,359,1971.56,Longline,Artisanal
+2021,7,North Coast,Sardine,285,1930.51,Trawl,Artisanal
+2022,7,North Coast,Sardine,528,1940.13,Net,Artisanal
+2023,7,North Coast,Sardine,520,913.63,Longline,Artisanal
+2024,7,North Coast,Sardine,588,2494.92,Net,Industrial
+2015,8,North Coast,Sardine,651,2320.58,Trawl,Artisanal
+2016,8,North Coast,Sardine,267,2081.45,Longline,Industrial
+2017,8,North Coast,Sardine,450,2156.6,Net,Industrial
+2018,8,North Coast,Sardine,367,1447.54,Longline,Industrial
+2019,8,North Coast,Sardine,519,1832.49,Trawl,Industrial
+2020,8,North Coast,Sardine,618,1792.82,Trawl,Artisanal
+2021,8,North Coast,Sardine,545,1959.74,Net,Artisanal
+2022,8,North Coast,Sardine,490,2078.31,Trawl,Artisanal
+2023,8,North Coast,Sardine,457,1740.19,Net,Industrial
+2024,8,North Coast,Sardine,506,2266.24,Longline,Artisanal
+2015,9,North Coast,Sardine,602,2106.79,Longline,Artisanal
+2016,9,North Coast,Sardine,609,2083.77,Trawl,Industrial
+2017,9,North Coast,Sardine,547,2390.9,Longline,Industrial
+2018,9,North Coast,Sardine,634,1944.82,Net,Artisanal
+2019,9,North Coast,Sardine,506,1972.79,Trawl,Artisanal
+2020,9,North Coast,Sardine,676,1638.69,Longline,Industrial
+2021,9,North Coast,Sardine,380,1830.88,Trawl,Artisanal
+2022,9,North Coast,Sardine,533,1960.13,Longline,Industrial
+2023,9,North Coast,Sardine,282,2100.36,Trawl,Artisanal
+2024,9,North Coast,Sardine,556,1649.68,Longline,Artisanal
+2015,10,North Coast,Sardine,215,2210.52,Net,Artisanal
+2016,10,North Coast,Sardine,466,2178.47,Trawl,Industrial
+2017,10,North Coast,Sardine,509,1678.62,Trawl,Artisanal
+2018,10,North Coast,Sardine,561,1932.22,Net,Artisanal
+2019,10,North Coast,Sardine,429,2179.42,Net,Artisanal
+2020,10,North Coast,Sardine,432,1896.68,Trawl,Industrial
+2021,10,North Coast,Sardine,506,2116.5,Trawl,Industrial
+2022,10,North Coast,Sardine,431,2001.49,Trawl,Industrial
+2023,10,North Coast,Sardine,557,1624.66,Trawl,Industrial
+2024,10,North Coast,Sardine,565,1795.3,Net,Artisanal
+2015,11,North Coast,Sardine,353,2271.93,Trawl,Industrial
+2016,11,North Coast,Sardine,461,2355.58,Longline,Artisanal
+2017,11,North Coast,Sardine,649,1402.35,Longline,Artisanal
+2018,11,North Coast,Sardine,439,2602.49,Trawl,Industrial
+2019,11,North Coast,Sardine,425,2065.23,Net,Industrial
+2020,11,North Coast,Sardine,616,2025.77,Longline,Artisanal
+2021,11,North Coast,Sardine,351,2283.55,Longline,Artisanal
+2022,11,North Coast,Sardine,452,2115.32,Trawl,Artisanal
+2023,11,North Coast,Sardine,421,2216.61,Net,Artisanal
+2024,11,North Coast,Sardine,319,2198,Longline,Artisanal
+2015,12,North Coast,Sardine,469,1951.62,Trawl,Artisanal
+2016,12,North Coast,Sardine,525,2002.32,Trawl,Industrial
+2017,12,North Coast,Sardine,419,2294.35,Longline,Industrial
+2018,12,North Coast,Sardine,488,1984.09,Trawl,Industrial
+2019,12,North Coast,Sardine,553,1945.52,Longline,Artisanal
+2020,12,North Coast,Sardine,525,2027.02,Trawl,Industrial
+2021,12,North Coast,Sardine,434,2054.61,Net,Industrial
+2022,12,North Coast,Sardine,401,2079.58,Longline,Industrial
+2023,12,North Coast,Sardine,547,1810.85,Trawl,Industrial
+2024,12,North Coast,Sardine,613,1996.52,Net,Industrial
+2015,1,South Coast,Sardine,478,1849.07,Longline,Artisanal
+2016,1,South Coast,Sardine,375,1488.88,Longline,Industrial
+2017,1,South Coast,Sardine,219,2030.51,Longline,Artisanal
+2018,1,South Coast,Sardine,370,2289.15,Trawl,Artisanal
+2019,1,South Coast,Sardine,417,1784.32,Longline,Industrial
+2020,1,South Coast,Sardine,645,2262.3,Net,Artisanal
+2021,1,South Coast,Sardine,522,1825.3,Trawl,Artisanal
+2022,1,South Coast,Sardine,538,2330.09,Trawl,Industrial
+2023,1,South Coast,Sardine,506,1909.76,Net,Industrial
+2024,1,South Coast,Sardine,407,1801.97,Longline,Artisanal
+2015,2,South Coast,Sardine,561,2315,Net,Artisanal
+2016,2,South Coast,Sardine,399,1691.11,Longline,Artisanal
+2017,2,South Coast,Sardine,581,1667.84,Trawl,Artisanal
+2018,2,South Coast,Sardine,388,1935.79,Trawl,Artisanal
+2019,2,South Coast,Sardine,594,1716.13,Net,Artisanal
+2020,2,South Coast,Sardine,688,2255.62,Net,Industrial
+2021,2,South Coast,Sardine,353,1924.75,Trawl,Artisanal
+2022,2,South Coast,Sardine,372,1357.31,Longline,Artisanal
+2023,2,South Coast,Sardine,612,2103.75,Longline,Industrial
+2024,2,South Coast,Sardine,716,1900.91,Net,Artisanal
+2015,3,South Coast,Sardine,436,1788.56,Trawl,Industrial
+2016,3,South Coast,Sardine,385,2074.78,Longline,Artisanal
+2017,3,South Coast,Sardine,559,2282.82,Trawl,Industrial
+2018,3,South Coast,Sardine,661,2275.69,Net,Industrial
+2019,3,South Coast,Sardine,432,1959.49,Net,Artisanal
+2020,3,South Coast,Sardine,515,2213.04,Trawl,Industrial
+2021,3,South Coast,Sardine,451,1785.78,Net,Artisanal
+2022,3,South Coast,Sardine,595,1633.67,Longline,Industrial
+2023,3,South Coast,Sardine,508,2429.67,Net,Artisanal
+2024,3,South Coast,Sardine,602,2392.35,Longline,Industrial
+2015,4,South Coast,Sardine,501,1952.61,Longline,Industrial
+2016,4,South Coast,Sardine,528,2377.93,Trawl,Artisanal
+2017,4,South Coast,Sardine,608,2149.16,Net,Artisanal
+2018,4,South Coast,Sardine,414,2456.77,Net,Industrial
+2019,4,South Coast,Sardine,579,1989.02,Trawl,Artisanal
+2020,4,South Coast,Sardine,296,2079.5,Trawl,Industrial
+2021,4,South Coast,Sardine,562,2049.99,Net,Artisanal
+2022,4,South Coast,Sardine,599,2071.23,Longline,Industrial
+2023,4,South Coast,Sardine,501,2377.61,Trawl,Artisanal
+2024,4,South Coast,Sardine,568,1453.33,Trawl,Industrial
+2015,5,South Coast,Sardine,571,2518.9,Longline,Industrial
+2016,5,South Coast,Sardine,337,1621.28,Net,Artisanal
+2017,5,South Coast,Sardine,518,1859.31,Net,Industrial
+2018,5,South Coast,Sardine,582,1987.81,Trawl,Artisanal
+2019,5,South Coast,Sardine,584,1716.5,Trawl,Industrial
+2020,5,South Coast,Sardine,465,2293.67,Longline,Artisanal
+2021,5,South Coast,Sardine,437,2091.9,Net,Industrial
+2022,5,South Coast,Sardine,419,1902.78,Trawl,Industrial
+2023,5,South Coast,Sardine,337,1819.06,Trawl,Artisanal
+2024,5,South Coast,Sardine,476,2053.93,Net,Industrial
+2015,6,South Coast,Sardine,564,2052.58,Longline,Artisanal
+2016,6,South Coast,Sardine,776,2362.01,Net,Artisanal
+2017,6,South Coast,Sardine,408,2733.49,Trawl,Artisanal
+2018,6,South Coast,Sardine,333,2361.93,Longline,Artisanal
+2019,6,South Coast,Sardine,768,2478.63,Longline,Industrial
+2020,6,South Coast,Sardine,637,1310.29,Longline,Industrial
+2021,6,South Coast,Sardine,492,1978.53,Trawl,Artisanal
+2022,6,South Coast,Sardine,586,1938.25,Longline,Industrial
+2023,6,South Coast,Sardine,582,2388.19,Trawl,Artisanal
+2024,6,South Coast,Sardine,523,2339.97,Longline,Artisanal
+2015,7,South Coast,Sardine,644,2081.84,Trawl,Artisanal
+2016,7,South Coast,Sardine,492,1441.67,Net,Artisanal
+2017,7,South Coast,Sardine,554,2222.57,Net,Artisanal
+2018,7,South Coast,Sardine,661,1904.34,Trawl,Industrial
+2019,7,South Coast,Sardine,320,2225.85,Trawl,Artisanal
+2020,7,South Coast,Sardine,298,1582.63,Longline,Artisanal
+2021,7,South Coast,Sardine,657,1810.36,Longline,Artisanal
+2022,7,South Coast,Sardine,619,1896.89,Trawl,Industrial
+2023,7,South Coast,Sardine,537,1976.24,Net,Artisanal
+2024,7,South Coast,Sardine,471,1680.44,Net,Industrial
+2015,8,South Coast,Sardine,585,1368.33,Net,Artisanal
+2016,8,South Coast,Sardine,301,1766.62,Net,Industrial
+2017,8,South Coast,Sardine,449,1840.17,Longline,Industrial
+2018,8,South Coast,Sardine,391,1851.51,Trawl,Artisanal
+2019,8,South Coast,Sardine,767,2279.35,Trawl,Artisanal
+2020,8,South Coast,Sardine,367,1871.8,Longline,Artisanal
+2021,8,South Coast,Sardine,403,1892.56,Trawl,Artisanal
+2022,8,South Coast,Sardine,371,1737.89,Net,Artisanal
+2023,8,South Coast,Sardine,287,2173.55,Longline,Artisanal
+2024,8,South Coast,Sardine,509,1699.13,Net,Artisanal
+2015,9,South Coast,Sardine,604,2146.98,Longline,Artisanal
+2016,9,South Coast,Sardine,482,2314.99,Trawl,Industrial
+2017,9,South Coast,Sardine,759,2283.28,Net,Industrial
+2018,9,South Coast,Sardine,286,1821.26,Trawl,Artisanal
+2019,9,South Coast,Sardine,521,2324.99,Net,Industrial
+2020,9,South Coast,Sardine,481,1395.61,Trawl,Artisanal
+2021,9,South Coast,Sardine,683,2068.05,Net,Artisanal
+2022,9,South Coast,Sardine,516,2584.08,Trawl,Industrial
+2023,9,South Coast,Sardine,379,2201.79,Net,Industrial
+2024,9,South Coast,Sardine,536,2042.1,Longline,Artisanal
+2015,10,South Coast,Sardine,485,1847.2,Net,Industrial
+2016,10,South Coast,Sardine,529,1989.88,Net,Industrial
+2017,10,South Coast,Sardine,332,2679.29,Trawl,Artisanal
+2018,10,South Coast,Sardine,575,2313.58,Trawl,Industrial
+2019,10,South Coast,Sardine,711,2263.05,Longline,Artisanal
+2020,10,South Coast,Sardine,468,2436.77,Trawl,Industrial
+2021,10,South Coast,Sardine,632,1529.53,Longline,Artisanal
+2022,10,South Coast,Sardine,668,1929.81,Net,Artisanal
+2023,10,South Coast,Sardine,614,1661.89,Net,Artisanal
+2024,10,South Coast,Sardine,415,1908.81,Trawl,Artisanal
+2015,11,South Coast,Sardine,203,1878.39,Net,Industrial
+2016,11,South Coast,Sardine,615,2304.56,Net,Industrial
+2017,11,South Coast,Sardine,462,2007.81,Trawl,Industrial
+2018,11,South Coast,Sardine,491,1655.09,Net,Artisanal
+2019,11,South Coast,Sardine,483,1637.91,Net,Industrial
+2020,11,South Coast,Sardine,504,1667.57,Net,Industrial
+2021,11,South Coast,Sardine,351,1823.17,Net,Industrial
+2022,11,South Coast,Sardine,509,2316.69,Trawl,Artisanal
+2023,11,South Coast,Sardine,461,1888.78,Longline,Artisanal
+2024,11,South Coast,Sardine,560,2047.25,Net,Industrial
+2015,12,South Coast,Sardine,268,1703.5,Longline,Industrial
+2016,12,South Coast,Sardine,348,2090.34,Trawl,Artisanal
+2017,12,South Coast,Sardine,503,1558.43,Net,Artisanal
+2018,12,South Coast,Sardine,483,2006.91,Net,Industrial
+2019,12,South Coast,Sardine,474,2390.57,Longline,Artisanal
+2020,12,South Coast,Sardine,666,1725.52,Trawl,Artisanal
+2021,12,South Coast,Sardine,466,2063.13,Net,Industrial
+2022,12,South Coast,Sardine,465,1399.92,Trawl,Industrial
+2023,12,South Coast,Sardine,381,2164.53,Longline,Artisanal
+2024,12,South Coast,Sardine,429,2212.63,Net,Artisanal
+2015,1,Offshore,Sardine,635,2303.6,Net,Artisanal
+2016,1,Offshore,Sardine,719,2159.52,Longline,Artisanal
+2017,1,Offshore,Sardine,694,2630.24,Trawl,Industrial
+2018,1,Offshore,Sardine,418,2071.98,Net,Artisanal
+2019,1,Offshore,Sardine,631,1985.9,Longline,Industrial
+2020,1,Offshore,Sardine,339,1868.35,Net,Industrial
+2021,1,Offshore,Sardine,399,1978.37,Longline,Industrial
+2022,1,Offshore,Sardine,538,2155.78,Trawl,Artisanal
+2023,1,Offshore,Sardine,733,2173.68,Net,Artisanal
+2024,1,Offshore,Sardine,508,1928.63,Trawl,Industrial
+2015,2,Offshore,Sardine,625,1316.69,Net,Industrial
+2016,2,Offshore,Sardine,491,2014.61,Net,Artisanal
+2017,2,Offshore,Sardine,501,2191.25,Net,Industrial
+2018,2,Offshore,Sardine,550,1523.85,Net,Industrial
+2019,2,Offshore,Sardine,695,2062.53,Trawl,Artisanal
+2020,2,Offshore,Sardine,406,1648.67,Longline,Industrial
+2021,2,Offshore,Sardine,470,1950.56,Longline,Artisanal
+2022,2,Offshore,Sardine,538,1784.87,Trawl,Industrial
+2023,2,Offshore,Sardine,509,2014.02,Longline,Industrial
+2024,2,Offshore,Sardine,352,2170.86,Net,Industrial
+2015,3,Offshore,Sardine,485,1821.27,Net,Artisanal
+2016,3,Offshore,Sardine,582,2292.73,Net,Industrial
+2017,3,Offshore,Sardine,478,2254.84,Longline,Industrial
+2018,3,Offshore,Sardine,511,2399.09,Trawl,Industrial
+2019,3,Offshore,Sardine,340,1733.2,Longline,Industrial
+2020,3,Offshore,Sardine,446,1739.01,Net,Industrial
+2021,3,Offshore,Sardine,404,2365.38,Trawl,Artisanal
+2022,3,Offshore,Sardine,536,1944.54,Longline,Industrial
+2023,3,Offshore,Sardine,451,1946.45,Net,Artisanal
+2024,3,Offshore,Sardine,436,1803.41,Trawl,Industrial
+2015,4,Offshore,Sardine,606,1930.25,Trawl,Industrial
+2016,4,Offshore,Sardine,499,1926.33,Trawl,Industrial
+2017,4,Offshore,Sardine,738,1850.62,Net,Artisanal
+2018,4,Offshore,Sardine,262,1985.83,Net,Industrial
+2019,4,Offshore,Sardine,629,2166.59,Net,Artisanal
+2020,4,Offshore,Sardine,526,2236.22,Net,Industrial
+2021,4,Offshore,Sardine,353,2409.9,Longline,Artisanal
+2022,4,Offshore,Sardine,523,1705.41,Longline,Artisanal
+2023,4,Offshore,Sardine,526,2049.65,Longline,Industrial
+2024,4,Offshore,Sardine,474,2405.45,Trawl,Artisanal
+2015,5,Offshore,Sardine,504,1795.71,Trawl,Artisanal
+2016,5,Offshore,Sardine,649,2258.9,Trawl,Artisanal
+2017,5,Offshore,Sardine,547,1526.14,Longline,Artisanal
+2018,5,Offshore,Sardine,371,2119.31,Trawl,Artisanal
+2019,5,Offshore,Sardine,402,1811.09,Net,Industrial
+2020,5,Offshore,Sardine,236,1746.28,Trawl,Industrial
+2021,5,Offshore,Sardine,573,2220.22,Longline,Industrial
+2022,5,Offshore,Sardine,461,1899.36,Trawl,Artisanal
+2023,5,Offshore,Sardine,541,1695.5,Trawl,Industrial
+2024,5,Offshore,Sardine,527,1930.36,Net,Artisanal
+2015,6,Offshore,Sardine,422,1743.38,Trawl,Industrial
+2016,6,Offshore,Sardine,488,1403.43,Trawl,Artisanal
+2017,6,Offshore,Sardine,614,2297.95,Net,Industrial
+2018,6,Offshore,Sardine,446,1970.87,Longline,Industrial
+2019,6,Offshore,Sardine,537,1604.36,Trawl,Artisanal
+2020,6,Offshore,Sardine,506,1820.47,Longline,Industrial
+2021,6,Offshore,Sardine,241,2252.63,Trawl,Industrial
+2022,6,Offshore,Sardine,337,1928.04,Trawl,Industrial
+2023,6,Offshore,Sardine,378,2635.05,Trawl,Artisanal
+2024,6,Offshore,Sardine,631,1948.53,Net,Artisanal
+2015,7,Offshore,Sardine,403,2243.59,Trawl,Industrial
+2016,7,Offshore,Sardine,441,2393.6,Longline,Artisanal
+2017,7,Offshore,Sardine,598,1025.07,Trawl,Industrial
+2018,7,Offshore,Sardine,555,2285.79,Longline,Industrial
+2019,7,Offshore,Sardine,415,1685.26,Longline,Artisanal
+2020,7,Offshore,Sardine,203,1741.1,Longline,Industrial
+2021,7,Offshore,Sardine,599,2064.26,Trawl,Industrial
+2022,7,Offshore,Sardine,174,2318.23,Trawl,Artisanal
+2023,7,Offshore,Sardine,596,1476.21,Trawl,Artisanal
+2024,7,Offshore,Sardine,512,2352.04,Trawl,Industrial
+2015,8,Offshore,Sardine,522,1592.36,Net,Industrial
+2016,8,Offshore,Sardine,505,1656.86,Longline,Artisanal
+2017,8,Offshore,Sardine,595,2330.54,Longline,Artisanal
+2018,8,Offshore,Sardine,782,1831.88,Net,Industrial
+2019,8,Offshore,Sardine,544,2236.21,Trawl,Artisanal
+2020,8,Offshore,Sardine,712,2295.67,Net,Industrial
+2021,8,Offshore,Sardine,621,2337.08,Longline,Artisanal
+2022,8,Offshore,Sardine,478,1901.52,Longline,Industrial
+2023,8,Offshore,Sardine,406,2107.21,Trawl,Artisanal
+2024,8,Offshore,Sardine,516,2001.42,Net,Artisanal
+2015,9,Offshore,Sardine,658,2239.19,Net,Industrial
+2016,9,Offshore,Sardine,458,1955.33,Trawl,Artisanal
+2017,9,Offshore,Sardine,496,2581.06,Net,Industrial
+2018,9,Offshore,Sardine,432,2489.4,Net,Artisanal
+2019,9,Offshore,Sardine,449,2350.01,Trawl,Industrial
+2020,9,Offshore,Sardine,407,2369.75,Net,Industrial
+2021,9,Offshore,Sardine,421,2688.17,Net,Artisanal
+2022,9,Offshore,Sardine,539,2100.8,Trawl,Artisanal
+2023,9,Offshore,Sardine,264,1834.73,Trawl,Industrial
+2024,9,Offshore,Sardine,748,1591.84,Trawl,Industrial
+2015,10,Offshore,Sardine,508,2201.47,Longline,Industrial
+2016,10,Offshore,Sardine,572,1949.15,Net,Artisanal
+2017,10,Offshore,Sardine,551,2037.54,Longline,Artisanal
+2018,10,Offshore,Sardine,557,2110.24,Longline,Artisanal
+2019,10,Offshore,Sardine,543,1725.01,Net,Artisanal
+2020,10,Offshore,Sardine,658,2144.5,Trawl,Artisanal
+2021,10,Offshore,Sardine,423,1943.33,Net,Artisanal
+2022,10,Offshore,Sardine,735,2304.2,Longline,Industrial
+2023,10,Offshore,Sardine,527,2077.56,Trawl,Industrial
+2024,10,Offshore,Sardine,449,1906.66,Trawl,Industrial
+2015,11,Offshore,Sardine,663,2018.55,Longline,Industrial
+2016,11,Offshore,Sardine,524,2361.5,Net,Industrial
+2017,11,Offshore,Sardine,370,1854.78,Trawl,Industrial
+2018,11,Offshore,Sardine,195,2180.24,Trawl,Artisanal
+2019,11,Offshore,Sardine,494,1807.87,Trawl,Artisanal
+2020,11,Offshore,Sardine,618,2717.41,Net,Industrial
+2021,11,Offshore,Sardine,363,2349.26,Net,Artisanal
+2022,11,Offshore,Sardine,190,1919.68,Trawl,Artisanal
+2023,11,Offshore,Sardine,619,2314.55,Net,Industrial
+2024,11,Offshore,Sardine,445,1741.5,Longline,Industrial
+2015,12,Offshore,Sardine,309,2194.43,Net,Industrial
+2016,12,Offshore,Sardine,499,1390.21,Trawl,Industrial
+2017,12,Offshore,Sardine,423,1685.19,Net,Industrial
+2018,12,Offshore,Sardine,431,2141.61,Longline,Industrial
+2019,12,Offshore,Sardine,301,2582.18,Longline,Artisanal
+2020,12,Offshore,Sardine,660,2314.47,Trawl,Industrial
+2021,12,Offshore,Sardine,446,2086.45,Longline,Artisanal
+2022,12,Offshore,Sardine,559,2259.71,Trawl,Industrial
+2023,12,Offshore,Sardine,667,1725.89,Longline,Artisanal
+2024,12,Offshore,Sardine,347,2176.99,Longline,Artisanal
+2015,1,North Coast,Cod,471,1035.02,Net,Artisanal
+2016,1,North Coast,Cod,621,2154.21,Net,Industrial
+2017,1,North Coast,Cod,296,2039.17,Longline,Artisanal
+2018,1,North Coast,Cod,641,1991,Longline,Artisanal
+2019,1,North Coast,Cod,568,1871.28,Longline,Artisanal
+2020,1,North Coast,Cod,363,1918.59,Net,Artisanal
+2021,1,North Coast,Cod,212,2157.11,Longline,Artisanal
+2022,1,North Coast,Cod,317,1451.67,Longline,Industrial
+2023,1,North Coast,Cod,500,1916.96,Longline,Industrial
+2024,1,North Coast,Cod,494,2232.09,Net,Industrial
+2015,2,North Coast,Cod,217,1627.3,Longline,Artisanal
+2016,2,North Coast,Cod,705,1754.51,Trawl,Artisanal
+2017,2,North Coast,Cod,518,2072.27,Trawl,Industrial
+2018,2,North Coast,Cod,333,1744.74,Net,Industrial
+2019,2,North Coast,Cod,365,1862.24,Net,Industrial
+2020,2,North Coast,Cod,599,1967.95,Longline,Industrial
+2021,2,North Coast,Cod,444,2048.56,Net,Industrial
+2022,2,North Coast,Cod,671,1651.87,Net,Artisanal
+2023,2,North Coast,Cod,380,1998.11,Net,Artisanal
+2024,2,North Coast,Cod,555,2001.47,Net,Artisanal
+2015,3,North Coast,Cod,630,1933.48,Longline,Industrial
+2016,3,North Coast,Cod,403,2438.69,Trawl,Artisanal
+2017,3,North Coast,Cod,542,1958.34,Net,Artisanal
+2018,3,North Coast,Cod,414,1969.77,Net,Artisanal
+2019,3,North Coast,Cod,680,2269.99,Net,Artisanal
+2020,3,North Coast,Cod,563,2139.52,Longline,Artisanal
+2021,3,North Coast,Cod,543,2577.56,Trawl,Artisanal
+2022,3,North Coast,Cod,544,1954.96,Net,Artisanal
+2023,3,North Coast,Cod,371,1602.85,Longline,Industrial
+2024,3,North Coast,Cod,546,1560.1,Trawl,Artisanal
+2015,4,North Coast,Cod,714,2106.23,Longline,Artisanal
+2016,4,North Coast,Cod,464,2513.19,Net,Industrial
+2017,4,North Coast,Cod,640,1674.4,Longline,Artisanal
+2018,4,North Coast,Cod,405,1929.13,Trawl,Artisanal
+2019,4,North Coast,Cod,267,1937.1,Longline,Artisanal
+2020,4,North Coast,Cod,408,2365.05,Trawl,Artisanal
+2021,4,North Coast,Cod,272,1688.43,Net,Industrial
+2022,4,North Coast,Cod,418,2587.6,Net,Industrial
+2023,4,North Coast,Cod,407,1680.93,Trawl,Artisanal
+2024,4,North Coast,Cod,462,1813.31,Trawl,Artisanal
+2015,5,North Coast,Cod,347,1875.99,Longline,Industrial
+2016,5,North Coast,Cod,688,2289.81,Longline,Industrial
+2017,5,North Coast,Cod,465,1922.12,Longline,Artisanal
+2018,5,North Coast,Cod,425,1455.21,Net,Artisanal
+2019,5,North Coast,Cod,495,2353.93,Net,Artisanal
+2020,5,North Coast,Cod,678,2005.78,Longline,Industrial
+2021,5,North Coast,Cod,565,2181.64,Longline,Artisanal
+2022,5,North Coast,Cod,558,2423.31,Trawl,Artisanal
+2023,5,North Coast,Cod,321,1917.35,Trawl,Artisanal
+2024,5,North Coast,Cod,519,1618.98,Longline,Artisanal
+2015,6,North Coast,Cod,336,1430.18,Trawl,Industrial
+2016,6,North Coast,Cod,670,1911.01,Trawl,Industrial
+2017,6,North Coast,Cod,630,1652.78,Longline,Artisanal
+2018,6,North Coast,Cod,553,2106.92,Trawl,Industrial
+2019,6,North Coast,Cod,569,1672.2,Net,Industrial
+2020,6,North Coast,Cod,392,1583.34,Trawl,Industrial
+2021,6,North Coast,Cod,411,2338.89,Trawl,Industrial
+2022,6,North Coast,Cod,689,1973.81,Longline,Industrial
+2023,6,North Coast,Cod,349,2459.57,Trawl,Artisanal
+2024,6,North Coast,Cod,529,1963.17,Net,Industrial
+2015,7,North Coast,Cod,437,1759.27,Net,Artisanal
+2016,7,North Coast,Cod,496,2019.17,Net,Artisanal
+2017,7,North Coast,Cod,598,2165.01,Trawl,Artisanal
+2018,7,North Coast,Cod,551,2053.72,Longline,Industrial
+2019,7,North Coast,Cod,736,2083.73,Net,Industrial
+2020,7,North Coast,Cod,605,1706.48,Longline,Artisanal
+2021,7,North Coast,Cod,495,1713.25,Longline,Industrial
+2022,7,North Coast,Cod,207,1971.68,Longline,Artisanal
+2023,7,North Coast,Cod,491,1745.17,Net,Artisanal
+2024,7,North Coast,Cod,587,2140.59,Longline,Industrial
+2015,8,North Coast,Cod,464,1970.68,Longline,Industrial
+2016,8,North Coast,Cod,668,1951.7,Longline,Industrial
+2017,8,North Coast,Cod,535,1965.63,Trawl,Industrial
+2018,8,North Coast,Cod,489,1756.7,Net,Industrial
+2019,8,North Coast,Cod,378,2310.25,Longline,Industrial
+2020,8,North Coast,Cod,271,2018.13,Longline,Industrial
+2021,8,North Coast,Cod,343,1913.2,Longline,Artisanal
+2022,8,North Coast,Cod,646,2300.58,Net,Artisanal
+2023,8,North Coast,Cod,610,2056.41,Trawl,Industrial
+2024,8,North Coast,Cod,579,2440.48,Longline,Artisanal
+2015,9,North Coast,Cod,417,1393.44,Trawl,Artisanal
+2016,9,North Coast,Cod,546,1662.11,Longline,Industrial
+2017,9,North Coast,Cod,447,2142.87,Longline,Industrial
+2018,9,North Coast,Cod,665,1838.84,Longline,Industrial
+2019,9,North Coast,Cod,631,2195.19,Net,Industrial
+2020,9,North Coast,Cod,475,2117.56,Longline,Artisanal
+2021,9,North Coast,Cod,342,1793.86,Trawl,Artisanal
+2022,9,North Coast,Cod,870,2530.15,Longline,Artisanal
+2023,9,North Coast,Cod,541,2247.76,Trawl,Industrial
+2024,9,North Coast,Cod,561,1774.99,Trawl,Industrial
+2015,10,North Coast,Cod,458,1780.71,Trawl,Artisanal
+2016,10,North Coast,Cod,579,2096.91,Trawl,Artisanal
+2017,10,North Coast,Cod,561,1422.6,Longline,Industrial
+2018,10,North Coast,Cod,579,1892.71,Longline,Artisanal
+2019,10,North Coast,Cod,522,1876.7,Longline,Industrial
+2020,10,North Coast,Cod,374,1917.45,Trawl,Artisanal
+2021,10,North Coast,Cod,254,2769.52,Trawl,Industrial
+2022,10,North Coast,Cod,562,1883.99,Net,Artisanal
+2023,10,North Coast,Cod,365,2266.47,Net,Industrial
+2024,10,North Coast,Cod,632,1518.32,Trawl,Industrial
+2015,11,North Coast,Cod,399,1526.32,Longline,Artisanal
+2016,11,North Coast,Cod,312,2364.18,Trawl,Industrial
+2017,11,North Coast,Cod,497,1999.24,Trawl,Industrial
+2018,11,North Coast,Cod,571,1911.82,Net,Industrial
+2019,11,North Coast,Cod,600,1807.5,Net,Artisanal
+2020,11,North Coast,Cod,549,1881.24,Trawl,Industrial
+2021,11,North Coast,Cod,518,1753.66,Net,Industrial
+2022,11,North Coast,Cod,481,1861.74,Trawl,Artisanal
+2023,11,North Coast,Cod,454,2143.7,Longline,Artisanal
+2024,11,North Coast,Cod,710,1758.08,Trawl,Artisanal
+2015,12,North Coast,Cod,477,2368.36,Trawl,Artisanal
+2016,12,North Coast,Cod,448,1854.51,Trawl,Industrial
+2017,12,North Coast,Cod,522,1448.06,Net,Industrial
+2018,12,North Coast,Cod,383,1963.92,Net,Industrial
+2019,12,North Coast,Cod,414,2149.2,Longline,Artisanal
+2020,12,North Coast,Cod,572,2256.46,Trawl,Artisanal
+2021,12,North Coast,Cod,347,1495.85,Net,Industrial
+2022,12,North Coast,Cod,368,1884.98,Trawl,Industrial
+2023,12,North Coast,Cod,594,2361.98,Longline,Industrial
+2024,12,North Coast,Cod,650,2259.37,Trawl,Artisanal
+2015,1,South Coast,Cod,321,2210.39,Longline,Industrial
+2016,1,South Coast,Cod,579,1852.85,Trawl,Artisanal
+2017,1,South Coast,Cod,571,1777.23,Net,Industrial
+2018,1,South Coast,Cod,497,2029.38,Trawl,Artisanal
+2019,1,South Coast,Cod,471,2156.26,Longline,Industrial
+2020,1,South Coast,Cod,456,1894.05,Longline,Artisanal
+2021,1,South Coast,Cod,723,1960.32,Longline,Artisanal
+2022,1,South Coast,Cod,614,2279.87,Trawl,Artisanal
+2023,1,South Coast,Cod,594,2222.18,Trawl,Industrial
+2024,1,South Coast,Cod,497,1944.53,Longline,Industrial
+2015,2,South Coast,Cod,589,1788.81,Longline,Artisanal
+2016,2,South Coast,Cod,588,2240.21,Trawl,Industrial
+2017,2,South Coast,Cod,571,1999.97,Trawl,Artisanal
+2018,2,South Coast,Cod,397,1931.62,Longline,Industrial
+2019,2,South Coast,Cod,436,2190.28,Longline,Artisanal
+2020,2,South Coast,Cod,280,1972.96,Longline,Artisanal
+2021,2,South Coast,Cod,342,2536.54,Trawl,Industrial
+2022,2,South Coast,Cod,821,1619.23,Longline,Artisanal
+2023,2,South Coast,Cod,525,1590.63,Trawl,Artisanal
+2024,2,South Coast,Cod,462,1604.54,Longline,Industrial
+2015,3,South Coast,Cod,537,2552.14,Trawl,Industrial
+2016,3,South Coast,Cod,303,1850.03,Trawl,Industrial
+2017,3,South Coast,Cod,388,2099.42,Net,Industrial
+2018,3,South Coast,Cod,763,1601,Trawl,Artisanal
+2019,3,South Coast,Cod,517,1798.37,Trawl,Industrial
+2020,3,South Coast,Cod,517,2076.53,Net,Industrial
+2021,3,South Coast,Cod,643,2238.96,Trawl,Artisanal
+2022,3,South Coast,Cod,300,2456.31,Trawl,Industrial
+2023,3,South Coast,Cod,606,1874.32,Net,Artisanal
+2024,3,South Coast,Cod,542,2035.16,Longline,Industrial
+2015,4,South Coast,Cod,339,2264.43,Net,Industrial
+2016,4,South Coast,Cod,382,1621.35,Trawl,Industrial
+2017,4,South Coast,Cod,347,1952.58,Longline,Artisanal
+2018,4,South Coast,Cod,437,1985.04,Net,Industrial
+2019,4,South Coast,Cod,581,2710.78,Longline,Industrial
+2020,4,South Coast,Cod,515,1941.74,Trawl,Artisanal
+2021,4,South Coast,Cod,285,2076.26,Trawl,Artisanal
+2022,4,South Coast,Cod,688,2232.62,Longline,Industrial
+2023,4,South Coast,Cod,453,1761.79,Trawl,Industrial
+2024,4,South Coast,Cod,435,2119.62,Net,Industrial
+2015,5,South Coast,Cod,454,2014.09,Longline,Artisanal
+2016,5,South Coast,Cod,684,1667.24,Net,Industrial
+2017,5,South Coast,Cod,511,1925.92,Trawl,Artisanal
+2018,5,South Coast,Cod,302,2235.05,Trawl,Industrial
+2019,5,South Coast,Cod,522,2151.34,Trawl,Industrial
+2020,5,South Coast,Cod,829,2260.39,Trawl,Industrial
+2021,5,South Coast,Cod,653,1890.52,Trawl,Industrial
+2022,5,South Coast,Cod,446,1656.89,Longline,Artisanal
+2023,5,South Coast,Cod,418,2221.6,Trawl,Industrial
+2024,5,South Coast,Cod,538,1451.75,Net,Industrial
+2015,6,South Coast,Cod,494,1723.74,Trawl,Artisanal
+2016,6,South Coast,Cod,480,1803.09,Net,Artisanal
+2017,6,South Coast,Cod,263,2577.73,Longline,Artisanal
+2018,6,South Coast,Cod,594,2328.06,Longline,Artisanal
+2019,6,South Coast,Cod,516,1937.33,Net,Artisanal
+2020,6,South Coast,Cod,574,2631.44,Net,Artisanal
+2021,6,South Coast,Cod,471,1598.7,Net,Industrial
+2022,6,South Coast,Cod,543,1896.1,Longline,Artisanal
+2023,6,South Coast,Cod,542,1230.19,Trawl,Industrial
+2024,6,South Coast,Cod,482,1714.81,Longline,Artisanal
+2015,7,South Coast,Cod,508,2006.24,Longline,Artisanal
+2016,7,South Coast,Cod,636,1861.97,Net,Artisanal
+2017,7,South Coast,Cod,446,2022.27,Longline,Industrial
+2018,7,South Coast,Cod,728,1665.78,Longline,Industrial
+2019,7,South Coast,Cod,623,2130.31,Trawl,Industrial
+2020,7,South Coast,Cod,453,2032,Trawl,Artisanal
+2021,7,South Coast,Cod,702,2116.41,Net,Industrial
+2022,7,South Coast,Cod,642,1927.02,Trawl,Industrial
+2023,7,South Coast,Cod,713,2226.56,Longline,Artisanal
+2024,7,South Coast,Cod,436,2242.18,Longline,Industrial
+2015,8,South Coast,Cod,568,2231.78,Longline,Industrial
+2016,8,South Coast,Cod,491,1948.75,Longline,Industrial
+2017,8,South Coast,Cod,437,1973.62,Trawl,Industrial
+2018,8,South Coast,Cod,615,1630.94,Trawl,Industrial
+2019,8,South Coast,Cod,402,1967.77,Net,Industrial
+2020,8,South Coast,Cod,568,2382.21,Trawl,Industrial
+2021,8,South Coast,Cod,358,2053.75,Longline,Industrial
+2022,8,South Coast,Cod,451,2194.11,Trawl,Industrial
+2023,8,South Coast,Cod,666,2005.44,Trawl,Industrial
+2024,8,South Coast,Cod,275,1906.69,Net,Industrial
+2015,9,South Coast,Cod,468,2042.54,Trawl,Industrial
+2016,9,South Coast,Cod,354,1982.91,Trawl,Artisanal
+2017,9,South Coast,Cod,459,1708.89,Trawl,Artisanal
+2018,9,South Coast,Cod,404,1964.55,Trawl,Artisanal
+2019,9,South Coast,Cod,572,1676.42,Trawl,Artisanal
+2020,9,South Coast,Cod,508,1388.62,Longline,Artisanal
+2021,9,South Coast,Cod,376,2331.98,Trawl,Artisanal
+2022,9,South Coast,Cod,609,2417.26,Longline,Artisanal
+2023,9,South Coast,Cod,450,2465.47,Longline,Artisanal
+2024,9,South Coast,Cod,368,1709,Longline,Industrial
+2015,10,South Coast,Cod,518,2092.58,Net,Industrial
+2016,10,South Coast,Cod,350,1928.95,Net,Artisanal
+2017,10,South Coast,Cod,468,2002.77,Trawl,Industrial
+2018,10,South Coast,Cod,476,1936.01,Net,Artisanal
+2019,10,South Coast,Cod,327,2331.58,Longline,Artisanal
+2020,10,South Coast,Cod,545,2176.94,Net,Artisanal
+2021,10,South Coast,Cod,504,1799.68,Net,Artisanal
+2022,10,South Coast,Cod,503,2492.53,Net,Industrial
+2023,10,South Coast,Cod,668,1752.3,Trawl,Industrial
+2024,10,South Coast,Cod,626,1636.61,Trawl,Artisanal
+2015,11,South Coast,Cod,294,1575.15,Net,Artisanal
+2016,11,South Coast,Cod,278,2089.04,Net,Artisanal
+2017,11,South Coast,Cod,292,1842.6,Net,Industrial
+2018,11,South Coast,Cod,485,1820.91,Trawl,Industrial
+2019,11,South Coast,Cod,516,1442.36,Trawl,Industrial
+2020,11,South Coast,Cod,392,1753.55,Trawl,Artisanal
+2021,11,South Coast,Cod,362,1969.04,Longline,Industrial
+2022,11,South Coast,Cod,487,1534.06,Trawl,Artisanal
+2023,11,South Coast,Cod,509,1617.84,Longline,Industrial
+2024,11,South Coast,Cod,184,1596.97,Trawl,Artisanal
+2015,12,South Coast,Cod,614,2135.51,Net,Artisanal
+2016,12,South Coast,Cod,719,2208.73,Trawl,Artisanal
+2017,12,South Coast,Cod,542,1602.05,Longline,Industrial
+2018,12,South Coast,Cod,180,2173.59,Longline,Industrial
+2019,12,South Coast,Cod,478,1653.26,Net,Artisanal
+2020,12,South Coast,Cod,426,2282.4,Net,Industrial
+2021,12,South Coast,Cod,375,1891.27,Longline,Industrial
+2022,12,South Coast,Cod,659,2227.51,Trawl,Artisanal
+2023,12,South Coast,Cod,318,2194.28,Longline,Industrial
+2024,12,South Coast,Cod,428,2031.13,Trawl,Industrial
+2015,1,Offshore,Cod,576,1769.95,Longline,Artisanal
+2016,1,Offshore,Cod,267,2489.19,Net,Artisanal
+2017,1,Offshore,Cod,472,2343.56,Net,Artisanal
+2018,1,Offshore,Cod,471,2266.86,Net,Artisanal
+2019,1,Offshore,Cod,389,2139.28,Net,Artisanal
+2020,1,Offshore,Cod,468,1547.02,Longline,Artisanal
+2021,1,Offshore,Cod,578,1347.32,Net,Artisanal
+2022,1,Offshore,Cod,469,1703.87,Longline,Artisanal
+2023,1,Offshore,Cod,482,2113.94,Net,Industrial
+2024,1,Offshore,Cod,526,1942.83,Longline,Artisanal
+2015,2,Offshore,Cod,627,1533.72,Net,Industrial
+2016,2,Offshore,Cod,518,1744.14,Longline,Artisanal
+2017,2,Offshore,Cod,350,2315.66,Longline,Industrial
+2018,2,Offshore,Cod,754,1552.72,Longline,Industrial
+2019,2,Offshore,Cod,543,1743.33,Longline,Artisanal
+2020,2,Offshore,Cod,596,1780.94,Net,Industrial
+2021,2,Offshore,Cod,522,1968.98,Longline,Industrial
+2022,2,Offshore,Cod,561,1552.62,Trawl,Industrial
+2023,2,Offshore,Cod,401,2290.98,Net,Industrial
+2024,2,Offshore,Cod,354,2619.73,Net,Industrial
+2015,3,Offshore,Cod,648,2110.72,Longline,Industrial
+2016,3,Offshore,Cod,439,1989.58,Longline,Industrial
+2017,3,Offshore,Cod,508,2710.87,Longline,Artisanal
+2018,3,Offshore,Cod,616,1928.02,Longline,Industrial
+2019,3,Offshore,Cod,401,1786.99,Net,Artisanal
+2020,3,Offshore,Cod,575,2042.05,Longline,Industrial
+2021,3,Offshore,Cod,434,2260.44,Longline,Artisanal
+2022,3,Offshore,Cod,431,2256.2,Trawl,Artisanal
+2023,3,Offshore,Cod,424,1962.08,Net,Industrial
+2024,3,Offshore,Cod,653,2209.4,Trawl,Artisanal
+2015,4,Offshore,Cod,658,1774.92,Net,Artisanal
+2016,4,Offshore,Cod,666,2195.75,Trawl,Artisanal
+2017,4,Offshore,Cod,570,1809.85,Net,Artisanal
+2018,4,Offshore,Cod,236,2196.68,Trawl,Industrial
+2019,4,Offshore,Cod,570,2003.55,Trawl,Artisanal
+2020,4,Offshore,Cod,732,1769.78,Longline,Artisanal
+2021,4,Offshore,Cod,521,2028.66,Net,Artisanal
+2022,4,Offshore,Cod,270,1498.3,Longline,Artisanal
+2023,4,Offshore,Cod,641,1996.11,Net,Artisanal
+2024,4,Offshore,Cod,552,1869.2,Trawl,Industrial
+2015,5,Offshore,Cod,432,1865.73,Net,Artisanal
+2016,5,Offshore,Cod,341,1806.49,Trawl,Artisanal
+2017,5,Offshore,Cod,465,2357.6,Trawl,Artisanal
+2018,5,Offshore,Cod,560,1612.51,Longline,Artisanal
+2019,5,Offshore,Cod,332,1840.49,Net,Industrial
+2020,5,Offshore,Cod,473,1599.88,Longline,Artisanal
+2021,5,Offshore,Cod,572,1825.02,Longline,Industrial
+2022,5,Offshore,Cod,392,1695.63,Net,Artisanal
+2023,5,Offshore,Cod,592,1765.39,Net,Industrial
+2024,5,Offshore,Cod,530,1803.44,Longline,Artisanal
+2015,6,Offshore,Cod,548,1774.44,Trawl,Artisanal
+2016,6,Offshore,Cod,518,2199.39,Longline,Industrial
+2017,6,Offshore,Cod,292,1799.98,Net,Artisanal
+2018,6,Offshore,Cod,692,1771.32,Trawl,Industrial
+2019,6,Offshore,Cod,493,2020.05,Trawl,Artisanal
+2020,6,Offshore,Cod,750,2042.26,Longline,Artisanal
+2021,6,Offshore,Cod,449,1938.09,Trawl,Artisanal
+2022,6,Offshore,Cod,478,1842.04,Trawl,Artisanal
+2023,6,Offshore,Cod,641,2246.13,Trawl,Artisanal
+2024,6,Offshore,Cod,694,1718.82,Trawl,Industrial
+2015,7,Offshore,Cod,419,2418.84,Longline,Industrial
+2016,7,Offshore,Cod,456,2032.55,Net,Artisanal
+2017,7,Offshore,Cod,451,1980.81,Longline,Artisanal
+2018,7,Offshore,Cod,594,1691.3,Net,Industrial
+2019,7,Offshore,Cod,567,2244.39,Trawl,Artisanal
+2020,7,Offshore,Cod,438,1540.22,Net,Artisanal
+2021,7,Offshore,Cod,379,1840.43,Trawl,Artisanal
+2022,7,Offshore,Cod,518,2087.49,Trawl,Artisanal
+2023,7,Offshore,Cod,493,1527.78,Trawl,Artisanal
+2024,7,Offshore,Cod,613,1813.15,Longline,Industrial
+2015,8,Offshore,Cod,331,2353.88,Longline,Artisanal
+2016,8,Offshore,Cod,564,2422.67,Longline,Artisanal
+2017,8,Offshore,Cod,618,1751.86,Net,Artisanal
+2018,8,Offshore,Cod,553,2413.66,Longline,Industrial
+2019,8,Offshore,Cod,383,1796.44,Net,Artisanal
+2020,8,Offshore,Cod,346,2444.28,Net,Industrial
+2021,8,Offshore,Cod,624,1863.07,Longline,Industrial
+2022,8,Offshore,Cod,746,1652.55,Net,Industrial
+2023,8,Offshore,Cod,356,2651.26,Net,Industrial
+2024,8,Offshore,Cod,548,1847.59,Trawl,Industrial
+2015,9,Offshore,Cod,376,2047.86,Longline,Artisanal
+2016,9,Offshore,Cod,395,2299.81,Trawl,Industrial
+2017,9,Offshore,Cod,593,2146.77,Longline,Industrial
+2018,9,Offshore,Cod,376,1949.03,Longline,Industrial
+2019,9,Offshore,Cod,373,1742.91,Net,Artisanal
+2020,9,Offshore,Cod,619,1394,Longline,Industrial
+2021,9,Offshore,Cod,442,2197.2,Longline,Industrial
+2022,9,Offshore,Cod,470,1939.26,Longline,Artisanal
+2023,9,Offshore,Cod,498,1913.06,Trawl,Industrial
+2024,9,Offshore,Cod,424,2029.95,Net,Artisanal
+2015,10,Offshore,Cod,574,2157.72,Longline,Industrial
+2016,10,Offshore,Cod,494,2290.77,Longline,Artisanal
+2017,10,Offshore,Cod,497,1900.64,Net,Industrial
+2018,10,Offshore,Cod,599,1820.19,Trawl,Artisanal
+2019,10,Offshore,Cod,518,2033.68,Net,Industrial
+2020,10,Offshore,Cod,553,1865.48,Net,Artisanal
+2021,10,Offshore,Cod,331,2279.01,Net,Industrial
+2022,10,Offshore,Cod,492,2209.45,Longline,Industrial
+2023,10,Offshore,Cod,461,1814.12,Net,Artisanal
+2024,10,Offshore,Cod,551,2473.15,Net,Industrial
+2015,11,Offshore,Cod,518,2248.13,Net,Artisanal
+2016,11,Offshore,Cod,511,2026.27,Trawl,Industrial
+2017,11,Offshore,Cod,487,1980.76,Trawl,Artisanal
+2018,11,Offshore,Cod,292,1704.24,Trawl,Industrial
+2019,11,Offshore,Cod,592,1862.61,Net,Artisanal
+2020,11,Offshore,Cod,462,1804.14,Longline,Artisanal
+2021,11,Offshore,Cod,466,2206.52,Longline,Industrial
+2022,11,Offshore,Cod,398,1993.06,Trawl,Industrial
+2023,11,Offshore,Cod,535,1607.97,Longline,Artisanal
+2024,11,Offshore,Cod,664,1723.08,Longline,Industrial
+2015,12,Offshore,Cod,483,2008.34,Net,Industrial
+2016,12,Offshore,Cod,543,1677.26,Longline,Artisanal
+2017,12,Offshore,Cod,328,1835.48,Trawl,Industrial
+2018,12,Offshore,Cod,389,1780.67,Trawl,Artisanal
+2019,12,Offshore,Cod,436,2083.68,Longline,Artisanal
+2020,12,Offshore,Cod,611,2569.84,Net,Industrial
+2021,12,Offshore,Cod,516,2037.93,Longline,Industrial
+2022,12,Offshore,Cod,497,1787.65,Net,Industrial
+2023,12,Offshore,Cod,445,1602.91,Trawl,Artisanal
+2024,12,Offshore,Cod,319,1636.48,Net,Artisanal
