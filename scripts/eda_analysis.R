@@ -16,8 +16,8 @@ years <- 2015:2024
 months <- 1:12
 regions <- c("North Coast", "South Coast", "Offshore")
 species <- c("Tuna", "Salmon", "Sardine", "Cod")
-vessel_type <- c("Industrial", "Artisanal")
-fishing_method <- c("Trawl", "Longline", "Net")
+fishing_Type <- c("Industrial", "Artisanal")
+vessel_type <- c("Trawl", "Longline", "Net")
 
 synthetic_data <- expand.grid(
   Year = years,
@@ -30,12 +30,38 @@ synthetic_data <- synthetic_data %>%
   mutate(
     Production_Tons = round(rnorm(n(), mean = 500, sd = 120)),
     Avg_Price_per_Ton = round(rnorm(n(), mean = 2000, sd = 300), 2),
-    Vessel_Type = sample(vessel_type, n(), replace = TRUE),
-    Fishing_Method = sample(fishing_method, n(), replace = TRUE)
+    vessel_type = sample(vessel_type, n(), replace = TRUE),
+    fishing_Type = sample(fishing_Type, n(), replace = TRUE)
   )
 
 # Save dataset
-write_csv(synthetic_data, "../data/fisheries_production.csv")
+write_csv(synthetic_data, "GitHub_Projects/fisheries-production-eda/data/fisheries_production.csv")
 
 # Preview
 head(synthetic_data)
+
+
+
+
+# --------------------------------------------
+# Basic Exploratory Analysis
+# --------------------------------------------
+
+# Summary statistics
+summary(synthetic_data)
+
+# Total production by year
+production_by_year <- synthetic_data %>%
+  group_by(Year) %>%
+  summarise(Total_Production = sum(Production_Tons))
+
+# Plot production trend
+ggplot(production_by_year, aes(x = Year, y = Total_Production)) +
+  geom_line() +
+  geom_point() +
+  labs(
+    title = "Total Fisheries Production by Year",
+    x = "Year",
+    y = "Total Production (Tons)"
+  ) +
+  theme_minimal()
